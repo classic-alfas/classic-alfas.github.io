@@ -7,13 +7,12 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="author" content="{{ site.title }}">
   <meta name="description" content="{{ site.description }}">
-  <meta name="keywords" content="mypartypixphotobooth, mypartypix, photobooth, events, photobooth rental, party needs">
 
 
-  <meta property="og:image" content="http://www.mypartypix.net/img/brand-logo.png">
-  <meta property="og:description" content="Fun . Loving . Memory">
-  <meta property="og:url" content="http://www.mypartypix.net/">
-  <meta property="og:title" content="MyPartyPix">
+  <!--<meta property="og:image" content="http://www.mypartypix.net/img/brand-logo.png">-->
+  <!--<meta property="og:description" content="Fun . Loving . Memory">-->
+  <!--<meta property="og:url" content="http://www.mypartypix.net/">-->
+  <!--<meta property="og:title" content="MyPartyPix">-->
 
   <title>{{ site.title}} </title>
   <!--<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">-->
@@ -54,7 +53,6 @@
 
 
 {% if page.url == '/' or page.url == 'index.html' %}
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALPX1dx_E0P7Rx7o-aJMSieABxcY7FtR8&callback=initMap"></script>
 <script type="text/javascript">
     //on navbar scroll add brand logo
     $('.navbar-collapse a').click(function(){
@@ -103,223 +101,6 @@
         });
     });
 
-
-
-    //GMAP
-    window.initMap = function() {
-        var mapLocation = {lat: 14.608801, lng: 121.046936};
-        var customMapType = new google.maps.StyledMapType(
-            [
-                {
-                    "featureType": "water",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#e9e9e9"
-                        },
-                        {
-                            "lightness": 17
-                        }
-                    ]
-                },
-                {
-                    "featureType": "landscape",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#f5f5f5"
-                        },
-                        {
-                            "lightness": 20
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.highway",
-                    "elementType": "geometry.fill",
-                    "stylers": [
-                        {
-                            "color": "#ffffff"
-                        },
-                        {
-                            "lightness": 17
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.highway",
-                    "elementType": "geometry.stroke",
-                    "stylers": [
-                        {
-                            "color": "#ffffff"
-                        },
-                        {
-                            "lightness": 29
-                        },
-                        {
-                            "weight": 0.2
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.arterial",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#ffffff"
-                        },
-                        {
-                            "lightness": 18
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.local",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#ffffff"
-                        },
-                        {
-                            "lightness": 16
-                        }
-                    ]
-                },
-                {
-                    "featureType": "poi",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#f5f5f5"
-                        },
-                        {
-                            "lightness": 21
-                        }
-                    ]
-                },
-                {
-                    "featureType": "poi.park",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#dedede"
-                        },
-                        {
-                            "lightness": 21
-                        }
-                    ]
-                },
-                {
-                    "elementType": "labels.text.stroke",
-                    "stylers": [
-                        {
-                            "visibility": "on"
-                        },
-                        {
-                            "color": "#ffffff"
-                        },
-                        {
-                            "lightness": 16
-                        }
-                    ]
-                },
-                {
-                    "elementType": "labels.text.fill",
-                    "stylers": [
-                        {
-                            "saturation": 36
-                        },
-                        {
-                            "color": "#333333"
-                        },
-                        {
-                            "lightness": 40
-                        }
-                    ]
-                },
-                {
-                    "elementType": "labels.icon",
-                    "stylers": [
-                        {
-                            "visibility": "off"
-                        }
-                    ]
-                },
-                {
-                    "featureType": "transit",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#f2f2f2"
-                        },
-                        {
-                            "lightness": 19
-                        }
-                    ]
-                },
-                {
-                    "featureType": "administrative",
-                    "elementType": "geometry.fill",
-                    "stylers": [
-                        {
-                            "color": "#fefefe"
-                        },
-                        {
-                            "lightness": 20
-                        }
-                    ]
-                },
-                {
-                    "featureType": "administrative",
-                    "elementType": "geometry.stroke",
-                    "stylers": [
-                        {
-                            "color": "#fefefe"
-                        },
-                        {
-                            "lightness": 17
-                        },
-                        {
-                            "weight": 1.2
-                        }
-                    ]
-                }
-            ],
-            {
-                name: 'Custom Style'
-            });
-        var customMapTypeId = 'custom_style';
-        var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 15,
-            draggable: true,
-            zoomControl: true,
-            scaleControl: false,
-            scrollwheel: false,
-            center: mapLocation,
-            mapTypeControlOptions: {
-                mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
-            }
-        });
-        var contentString =
-            '<div id="info-window-container">'+
-            '<div class="info-window-content">' +
-            '<address id="info-address">' +
-            '<h3>MY PARTY PIX PHOTO BOOTH</h3>' +
-            '<address class="address">111 Alley 1 5th West Crame,<br>San Juan, Metro Manila, Philippines</address>'+
-            '</div>'+
-            '<div class="info-window-footer">' +
-            '<a class="get-direction" href="https://www.google.com/maps/place/My+Party+Pix+Photo+Booth/@14.608687,121.046571,16z/data=!4m5!3m4!1s0x0:0x526a693b60c45e7a!8m2!3d14.6083336!4d121.0470538?hl=en-US" target="_blank">GET DIRECTIONS</a>'+
-            '</div>'
-        '</div>';
-        
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString,
-            position: mapLocation
-        });
-        infowindow.open(map);
-        map.mapTypes.set(customMapTypeId, customMapType);
-        map.setMapTypeId(customMapTypeId);
-    }
 </script>
 {% endif %}
 </body>
