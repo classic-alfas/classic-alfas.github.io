@@ -3,8 +3,8 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
         <a class="navbar-brand hidden-lg hidden-md visible-sm visible-xs" href="/">
-            <!--<img class="brand-logo" src=""/>-->
-            <span class="brand-logo-text text-center">LOGO</span>
+            <img class="brand-logo" src="https://res.cloudinary.com/wesedholm/image/upload/v1542427583/assets/brand-logo.png"/>
+            <!--<span class="brand-logo-text text-center">LOGO</span>-->
         </a>
         <button type="button" id="icon-transition" class="navbar-toggle toggle-menu menu-right" data-toggle="collapse" data-target="#navbar-right-collapse">
             <span class="icon-bar"></span>
@@ -18,9 +18,9 @@
             <li class="navbar-menu">
                 <a href="/">HOME</a>
             </li>
-            <li class="navbar-menu">
-                <a href="/gallery/">GALLERY</a>
-            </li>
+            <!--<li class="navbar-menu">-->
+                <!--<a href="/gallery/">GALLERY</a>-->
+            <!--</li>-->
             {% for navbarMenu in site.data.navbar %}
             {% if navbarMenu.id != 3 %}
             <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
@@ -31,7 +31,7 @@
                 {% endif %}
             </li>
             {% else %}
-            <li class="navbar-brand-logo hidden-sm hidden-xs" {% if page.url !="/" %} style="display: block"{% endif %}>
+            <li class="navbar-brand-logo" {% if page.url !="/" %} style="display: block"{% endif %}>
                 <a href="{{ navbarMenu.slugID }}">
                     <img src="{{ navbarMenu.image }}" class="brand-logo"/>
                 </a>
