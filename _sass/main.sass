@@ -1,30 +1,3 @@
-//Font face section
-@font-face
-  font-family: 'Gotham-Black'
-  src: url('/fonts/gotham/Gotham-Black.ttf')
-
-@font-face
-  font-family: 'Gotham-Bold'
-  src: url('/fonts/gotham/Gotham-Bold.ttf')
-
-@font-face
-  font-family: 'Gotham-Book'
-  src: url('/fonts/gotham/Gotham-Book.ttf')
-
-@font-face
-  font-family: 'Gotham-Light'
-  src: url('/fonts/gotham/Gotham-Light.ttf')
-
-@font-face
-  font-family: 'Gotham-Medium'
-  src: url('/fonts/gotham/Gotham-Medium.ttf')
-
-@font-face
-  font-family: 'Gotham-Thin'
-  src: url('/fonts/gotham/Gotham-Thin.ttf')
-
-
-
 //navbar
 nav
   transition: all 300ms ease
@@ -151,7 +124,8 @@ footer
       text-transform: uppercase
       display: block
       font-size: 14px
-      font-family: "Gotham-Book"
+      font-family: 'Lato', sans-serif
+      font-weight: 900
       text-align: center
 
 @media (max-width: 991px)
@@ -166,11 +140,13 @@ footer
           margin-right: 0
           float: none
           .navbar-brand
-            margin-left: 30px
-            margin-top: 20px
-            margin-bottom: 20px
             .brand-logo
               height: 30px
+            .brand-logo-text
+              display: block
+              font-size: 36px
+              padding-top: 30px
+              padding-bottom: 30px
         .navbar-right
           margin: 15px auto
           float: none !important
@@ -194,7 +170,7 @@ footer
     position: absolute
     right: 0
     top: 0
-    margin: 26px 30px
+    margin: 21px 30px
     padding: 9px 6px
 
     &:hover, &:focus
