@@ -1,20 +1,15 @@
-<div class="container">
-    <div class="header-section">
-        <header class="header">SHOP WITH ALFA ROMEO</header>
-    </div>
-    <div class="content-section clearfix">
-
+<div class="container-fluid no-gutter">
+    <div class="content-container">
         {% for service in site.data.service %}
-        <div class="col-md-4">
-            <img src="{{ service.image }}" class="image-section img-responsive center-block"/>
-            <span class="title-section">{{ service.title }}</span>
-            <span class="description-section">{{ service.description }}</span>
-
-            <div class="service-button-container">
-                <a class="service-button-link">{{ service.button }} <span class="service-button-icon fa fa-angle-right"></span></a>
-            </div>
+        <div class="col-md-4 col-sm-6 col-xs-12 no-gutter service-item">
+            <a class="service-link" href="{{ service.url }}">
+                <div class="service-overlay"></div>
+                <div class="service-image"  style="background-image: url('{{ service.image }}');"></div>
+                <div class="caption">
+                    <h1 class="service-title">{{ service.title }}</h1>
+                </div>
+            </a>
         </div>
-
         {% endfor %}
     </div>
 </div>

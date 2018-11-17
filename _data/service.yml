@@ -1,17 +1,23 @@
-- id: 1
-  title: Build My Own
-  description: Tell us what you want in your Alfa Romeo vehicle and we'll find the one that is right for you.
-  image: https://picsum.photos/800/600
-  button: Get Started
+- title: Parts for Sale
+  image: https://picsum.photos/640/640
+  url:
 
-- id: 2
-  title: Find A Dealer
-  description: Locate an Alfa Romeo dealer near you for more details on special offers.
-  image: https://picsum.photos/800/600
-  button: Find A Dealer
+- title: Classics on Offer
+  image: https://picsum.photos/640/640
+  url:
 
-- id: 3
-  title: Test Drive An Alfa Romeo
-  description: Tease your senses by getting behind the wheel of an Alfa Romeo. Schedule a test drive today.
-  image: https://picsum.photos/800/600
-  button: Schedule A Test Drive
+- title: Race Inspired News
+  image: https://picsum.photos/640/640
+  url:
+
+- title: Classic Auto Rental
+  image: https://picsum.photos/640/640
+  url:
+
+- title: About Us
+  image: https://picsum.photos/640/640
+  url:
+
+- title: Contact Us
+  image: https://picsum.photos/640/640
+  url:
