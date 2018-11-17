@@ -10,9 +10,9 @@
 
         <fieldset class="filters-button-group hidden-xs">
             <button class="btn-isotope" data-filter="*">All</button>
-            <button class="btn-isotope" data-filter=".filter1">Giulia Sedan</button>
-            <button class="btn-isotope" data-filter=".filter2">Spider</button>
-            <button class="btn-isotope" data-filter=".sprint">Sprint</button>
+            <button class="btn-isotope" data-filter=".giulia-sedan">Giulia Sedan</button>
+            <button class="btn-isotope" data-filter=".spider">Spider</button>
+            <button class="btn-isotope" data-filter=".spider">Sprint</button>
         </fieldset>
     </div>
 
@@ -21,28 +21,31 @@
             <a href="#" id="category-button" data-toggle="collapse" data-target="#navbar-category-collapse">Filter Menu <span class="caret"></span></a>
         </div>
         <div class="full-width no-gutter collapse navbar-collapse" id="navbar-category-collapse">
-            <input type="text" id="quicksearch2" class="quicksearch" placeholder="Search" />
-            <select class="filters-2">
-                <option  value="*">Show All</option>
-                <option value=".filter1">Filter 1</option>
-                <option value=".filter2">Filter 2</option>
-            </select>
+            <!--<input type="text" id="quicksearch2" class="quicksearch" placeholder="Search" />-->
+            <fieldset class="filters-button-group hiden-lg hidden-md hidden-sm visible-xs">
+                <button class="btn-isotope" data-filter="*">All</button>
+                <button class="btn-isotope" data-filter=".giulia-sedan">Giulia Sedan</button>
+                <button class="btn-isotope" data-filter=".spider">Spider</button>
+                <button class="btn-isotope" data-filter=".sprint">Sprint</button>
+            </fieldset>
         </div>
     </div>
 
-    <div class="container-fluid reel-list-container">
+    <div class="container-fluid parts-list-container">
         <div class="grid">
-            {% assign sorted-parts = site.data.parts | sort: "rank" %}
-            {% for parts-list in sorted-parts reversed %}
-            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ parts-list.type }}" data-celebrity="{{ parts-list.rank-celebrity }}">
-                <span style="display: none" class="celebrity">{{ reel-list.rank-celebrity }}</span>
-                <a class="popup-vimeo" href="{{ parts-list.link }}" data-id="{{ parts-list.rank }}" target="_blank">
-                    <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ parts-list.image }}');background-size: cover; background-position: top center;">
-                        <div class="caption">
-                            <h1 class="reel-title">{{ parts-list.title }}</h1>
-                        </div>
+            {% assign sorted-parts = site.data.parts %}
+            {% for parts in sorted-parts %}
+            <div class="col-lg-4 col-md-6 parts-image-item {{ parts.filter-model }}">
+                <a href="parts-link">
+                    <div class="parts-image-container">
+                        <img src="{{ parts.image}}" class="img-responsive center-block"/>
                     </div>
                 </a>
+                <div class="parts-details">
+                    <span class="parts-name">Part Name: {{ parts.name }}</span>
+                    <span class="parts-model">Model: {{ parts.model }}</span>
+                    <span class="parts-price">Price: ${{ parts.price }}</span>
+                </div>
             </div>
             {% endfor %}
         </div>

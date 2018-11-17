@@ -13,7 +13,7 @@ javascript: >
         var $container = $('.grid');
         // init Isotope
         $container = $(".grid").isotope({
-            itemSelector: '.reel-image-item',
+            itemSelector: '.parts-image-item',
             layoutMode: 'fitRows',
             sortAscending: true,
             filter: function() {
@@ -24,12 +24,11 @@ javascript: >
             }
         });
 
-        // bind filter on select change
-        // $(".filters-2 .filter").on("click", function() {
-        //     // get filter value from option value
-        //     filterValue = $( this ).attr('data-filter');
-        //     $container.isotope();
-        // });
+        $(".filters-2").on("change", function() {
+            // get filter value from option value
+            filterValue = $(this).val();
+            $container.isotope();
+        });
 
         $('.filters-button-group').on('click', 'button', function () {
             filterValue = $(this).attr('data-filter');
