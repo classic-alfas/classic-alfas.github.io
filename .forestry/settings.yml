@@ -16,7 +16,7 @@ sections:
   label: Posts
   create: all
 upload_dir: assets
-public_path: ''
+public_path: https://res.cloudinary.com/wesedholm/image/upload/assets
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
