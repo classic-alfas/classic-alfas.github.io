@@ -1,0 +1,17 @@
+
+- id: 2
+  title: "Services"
+  slugID: "service"
+
+- id: 3
+  image:  "/img/brand-logo.png"
+  slugID: "/"
+
+- id: 4
+  title: "Own-A-Booth"
+  slugID: "booth"
+
+- id: 5
+  title: "Contact Us"
+  slugID: "contact"
+

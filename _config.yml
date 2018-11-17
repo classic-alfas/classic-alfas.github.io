@@ -1,0 +1,19 @@
+title: Classic Alfas
+
+description: >
+  Lorem picsum dolor sit amet
+url:
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  style: compressed
+
+collections:
