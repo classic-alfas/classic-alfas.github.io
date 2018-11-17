@@ -239,16 +239,15 @@ footer
 
   .navbar-toggle
     display: block
-    background-color: $default-color-text
+    background-color: transparent !important
     border-color: transparent !important
     position: absolute
     right: 0
     top: 0
     margin: 21px 30px
     padding: 9px 6px
-
     &:hover, &:focus
-      background-color: $default-color-text !important
+      background-color: transparent !important
     .icon-bar
       background-color: white !important
       height: 2px
@@ -297,7 +296,6 @@ footer
 @media (max-width: 991px)
   body
     margin-top: 91px !important
-
   nav
     &.navbar-default
       .container
@@ -306,6 +304,14 @@ footer
             display: table !important
             margin-left: auto !important
             margin-right: auto !important
+        .navbar-nav
+          .navbar-menu
+            a
+              color: $default-color-text !important
+              &:hover
+                color: $default-color-text !important
+
+
 
 @media (max-width: 767px)
   .collapse
