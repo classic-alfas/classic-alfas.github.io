@@ -7,7 +7,6 @@
 <div id="parts-list" class="container">
     <div class="menu-container visible-lg visible-md hidden-sm hidden-xs">
         <!--<input type="text" id="quicksearch1" class="quicksearch" placeholder="Search Name" />-->
-
         <fieldset class="filters-button-group hidden-xs">
             <button class="btn-isotope" data-filter="*">All</button>
             <button class="btn-isotope" data-filter=".giulia-sedan">Giulia Sedan</button>
@@ -36,7 +35,7 @@
             {% assign sorted-parts = site.data.parts %}
             {% for parts in sorted-parts %}
             <div class="col-lg-4 col-md-6 parts-image-item {{ parts.filter-model }}">
-                <a href="parts-link">
+                <a class="parts-link" href="#">
                     <div class="parts-image-container">
                         <img src="{{ parts.image}}" class="img-responsive center-block"/>
                     </div>
