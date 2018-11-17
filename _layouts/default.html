@@ -62,8 +62,7 @@
     $(function () {
         if( window.pageYOffset > 50 && $(document).width() >= 992){
             $('nav').addClass('navbar-shrink')
-        }
-        else if( window.pageYOffset < 50 && $(document).width() >= 992){
+        } else if( window.pageYOffset < 50 && $(document).width() >= 992){
             $(window).scroll(function() {
                 if ($(document).scrollTop() > 50 && $(document).width() >= 992 ) {
                     $('nav').addClass('navbar-shrink');

@@ -18,27 +18,24 @@
             <li class="navbar-menu">
                 <a href="/">HOME</a>
             </li>
-            <!--<li class="navbar-menu">-->
-                <!--<a href="/gallery/">GALLERY</a>-->
-            <!--</li>-->
-            {% for navbarMenu in site.data.navbar %}
-            {% if navbarMenu.id != 3 %}
-            <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
-                {% if page.url == '/' %}
-                <a  href="#{{ navbarMenu.slugID }}" class="navbar-link">{{ navbarMenu.title | upcase }}</a>
-                {% else %}
-                <a  href="/#{{ navbarMenu.slugID }}" class="navbar-link">{{ navbarMenu.title | upcase }}</a>
-                {% endif %}
+
+            <li class="navbar-menu">
+                <a  href="#booth" class="navbar-link">RENTALS</a>
             </li>
-            {% else %}
-            <li class="navbar-brand-logo" {% if page.url !="/" %} style="display: block"{% endif %}>
-                <a href="{{ navbarMenu.slugID }}">
-                    <img src="{{ navbarMenu.image }}" class="brand-logo"/>
+
+            <li class="navbar-brand-logo" style="display: block">
+                <a href="/">
+                    <img src="https://res.cloudinary.com/wesedholm/image/upload/v1542427583/assets/brand-logo.png" class="brand-logo"/>
                 </a>
             </li>
-            {% endif %}
-            {% endfor %}
 
+            <li class="navbar-menu">
+                <a  href="#" class="navbar-link">PARTS</a>
+            </li>
+
+            <li class="navbar-menu">
+                <a  href="#" class="navbar-link">CONTACT</a>
+            </li>
         </ul>
     </div>
 </div>
