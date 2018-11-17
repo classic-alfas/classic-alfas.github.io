@@ -25,12 +25,18 @@ javascript: >
         });
 
         // bind filter on select change
-        $(".filters-2").on("change", function() {
-            // get filter value from option value
-            filterValue = $(this).val();
-            console.log(filterValue);
-            $container.isotope();
+        // $(".filters-2 .filter").on("click", function() {
+        //     // get filter value from option value
+        //     filterValue = $( this ).attr('data-filter');
+        //     $container.isotope();
+        // });
+
+        $('.filters-button-group').on('click', 'button', function () {
+            filterValue = $(this).attr('data-filter');
+            $container.isotope({});
+            //            return false;
         });
+
 
         $container.on( 'arrangeComplete', function( event, filteredItems ) {
             if(filteredItems.length == 0 ){

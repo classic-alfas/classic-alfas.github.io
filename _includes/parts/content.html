@@ -6,12 +6,14 @@
 
 <div id="parts-list" class="container">
     <div class="menu-container visible-lg visible-md hidden-sm hidden-xs">
-        <input type="text" id="quicksearch1" class="quicksearch" placeholder="Search Name" />
-        <select class="filters-2">
-            <option  value="*">Show All</option>
-            <option value=".filter1">Filter 1</option>
-            <option value=".filter2">Filter 2</option>
-        </select>
+        <!--<input type="text" id="quicksearch1" class="quicksearch" placeholder="Search Name" />-->
+
+        <fieldset class="filters-button-group hidden-xs">
+            <button class="btn-isotope" data-filter="*">All</button>
+            <button class="btn-isotope" data-filter=".filter1">Giulia Sedan</button>
+            <button class="btn-isotope" data-filter=".filter2">Spider</button>
+            <button class="btn-isotope" data-filter=".sprint">Sprint</button>
+        </fieldset>
     </div>
 
     <div class="menu-container hidden-lg hidden-md">
