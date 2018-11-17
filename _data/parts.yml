@@ -21,7 +21,7 @@
   price: 65
 - name: Heater Blower Motor
   model: Giulietta
-  filter-model: 
+  filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: 125
 - name: Wiper Arms 2
