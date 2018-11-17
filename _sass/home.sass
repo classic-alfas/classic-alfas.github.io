@@ -15,7 +15,7 @@ nav
   &.navbar-default
     background-color: transparent !important
     border-color: transparent !important
-    box-shadow: none !important
+    border: none
     .container
       width: 100%
       height: inherit
@@ -132,13 +132,12 @@ nav
               color: white
 
   &.navbar-shrink
-    background-color: white !important
-    box-shadow: 0px 0px 1px 0.5px #D2D0D0 !important
+    background-color: #085f2f !important
+    box-shadow: 0px 0px 1px 0.5px #333333 !important
+    border: none
     .container
       .navbar-nav
-        margin: 20px auto
         .navbar-menu
-          margin: 14px 10px
           &:before, &:after
             content: ""
             display: block
@@ -158,8 +157,8 @@ nav
             -ms-transform: translate(0, 0)
             -o-transform: translate(0, 0)
             transform: translate(0, 0)
-            border-top: 1px solid #3b3b3b
-            border-bottom: 1px solid #3b3b3b
+            border-top: 1px solid white
+            border-bottom: 1px solid white
             left: -101%
 
           &:after
@@ -167,8 +166,8 @@ nav
             -ms-transform: translate(0, 0)
             -o-transform: translate(0, 0)
             transform: translate(0, 0)
-            border-left: 1px solid #3b3b3b
-            border-right: 1px solid #3b3b3b
+            border-left: 1px solid white
+            border-right: 1px solid white
             top: -101%
 
           &:hover
@@ -184,9 +183,9 @@ nav
               -o-transform: translate(0, 101%)
               transform: translate(0, 101%)
           a
-            color: #3b3b3b
+            color: white
             &:hover
-              color: #3b3b3b
+              color: white
 
 #cover
   background-attachment: fixed
