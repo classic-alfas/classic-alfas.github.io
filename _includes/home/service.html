@@ -6,7 +6,7 @@
 
         {% for service in site.data.service %}
         <div class="col-md-4">
-            <img src="/img/service/{{ service.image }}" class="image-section img-responsive center-block"/>
+            <img src="{{ service.image }}" class="image-section img-responsive center-block"/>
             <span class="title-section">{{ service.title }}</span>
             <span class="description-section">{{ service.description }}</span>
         </div>

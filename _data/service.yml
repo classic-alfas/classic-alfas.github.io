@@ -1,14 +1,14 @@
 - id: 1
-  title: "Photobooth Rental"
-  description: "Complete setup with two friendly crew!"
-  image: "photobooth.jpg"
+  title: "Lorem Title"
+  description: "Lorem ipsum dolor sit amet"
+  image: "https://picsum.photos/800/600"
 
 - id: 2
-  title: "Party Needs"
-  description: "Party Decor, Food "
-  image: "celebration.jpg"
+  title: "Lorem Title"
+  description: "Lorem ipsum dolor sit amet "
+  image: "https://picsum.photos/800/600"
 
 - id: 3
-  title: "Other Services"
-  description: "Flipbook, Hashtag instagram photo print, Photoman"
-  image: "other.jpg"
+  title: "Lorem Title"
+  description: "Lorem ipsum dolor sit amet"
+  image: "https://picsum.photos/800/600"

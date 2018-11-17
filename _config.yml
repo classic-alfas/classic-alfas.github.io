@@ -7,7 +7,6 @@ url:
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
 
 exclude:
   - Gemfile
