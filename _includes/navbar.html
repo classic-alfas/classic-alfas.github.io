@@ -17,6 +17,9 @@
             <!--<li class="navbar-menu">-->
                 <!--<a href="/gallery/">GALLERY</a>-->
             <!--</li>-->
+            <li class="navbar-menu">
+                <a href="/">HOME</a>
+            </li>
             {% for navbarMenu in site.data.navbar %}
             {% if navbarMenu.id != 3 %}
             <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>

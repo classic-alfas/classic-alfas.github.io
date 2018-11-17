@@ -1,19 +1,14 @@
-- id: 1
-  title: Home
-  slugID: /
-
 - id: 2
   title: Rentals
-
+  slugID: service
 
 #- id: 3
 #  image:  /img/brand-logo.png
 
-
 - id: 4
   title: About
-
+  slugID: Booth
 
 - id: 5
   title: Contact
-
+  slugID: Contact
