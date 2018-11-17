@@ -7,8 +7,8 @@
 
 - id: 4
   title: About
-  slugID: Booth
+  slugID: booth
 
 - id: 5
   title: Contact
-  slugID: Contact
+  slugID: contact
