@@ -1,8 +1,11 @@
+//Variables
+$default-color-text: #3b3b3b
+
 //Global Declaration
 body
   font-family: 'Lato', sans-serif
   font-weight: 400
-  color: #3b3b3b
+  color: $default-color-text
   font-size: 16px
 
 .no-gutter
@@ -237,9 +240,9 @@ nav
     .header
       margin: 0
       font-family: 'Lato', sans-serif
-      font-weight: 700
+      font-weight: 400
       text-transform: uppercase
-      font-size: 44px
+      font-size: 36px
       letter-spacing: 4px
       text-align: center
       display: block
@@ -268,7 +271,7 @@ nav
 
 #gallery
   position: relative
-  background-image: url("https://res.cloudinary.com/wesedholm/image/upload/w_1920/v1542433607/assets/daniel-minarik-1150739-unsplash.jpg")
+  background-image: url("https://res.cloudinary.com/wesedholm/image/upload/w_1920,f_auto/v1542433607/assets/daniel-minarik-1150739-unsplash.jpg")
   background-size: cover
   background-position: top center
   background-repeat: no-repeat
@@ -326,9 +329,9 @@ nav
     .header
       margin: 0
       font-family: 'Lato', sans-serif
-      font-weight: 700
+      font-weight: 400
       text-transform: uppercase
-      font-size: 44px
+      font-size: 36px
       letter-spacing: 4px
       text-align: center
       display: block
@@ -337,32 +340,36 @@ nav
       display: block
       font-size: 90px
       margin-bottom: 30px
-      text-align: center
     .title-section
       font-family: 'Lato', sans-serif
       font-weight: 700
-      font-size: 22px
-      text-align: center
-      margin-bottom: 10px
+      font-size: 18px
+      margin-bottom: 30px
       display: block
+      text-transform: uppercase
     .description-section
       display: block
       line-height: 24px
-      text-align: center
-  .rate-button-container
-    margin-top: 30px
-    margin-bottom: 50px
-    .modal-link
-      color: white
-      display: table
-      margin-left: auto
-      margin-right: auto
-      text-transform: uppercase
-      padding: 20px 30px
-      background-color: #E91E63
-      text-decoration: none
-      outline: none
-      cursor: pointer
+    .service-button-container
+      margin-top: 30px
+      margin-bottom: 50px
+      .service-button-link
+        color: $default-color-text
+        font-size: 14px
+        display: inline-block
+        margin-left: auto
+        margin-right: auto
+        text-transform: uppercase
+        padding: 10px 20px
+        border: 2px solid black
+        text-decoration: none
+        outline: none
+        cursor: pointer
+        &:hover
+          color: $default-color-text
+        .service-button-icon
+          display: inline-block
+          margin-left: 10px
 
 #booth
   padding-top: 30px
@@ -473,7 +480,7 @@ nav
   .modal-body
     padding-top: 0
     padding-bottom: 0
-    color: #3b3b3b
+    color: $default-color-text
     .header-section
       &#package-header
         padding-top: 30px

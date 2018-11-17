@@ -1,14 +1,17 @@
 - id: 1
-  title: "Lorem Title"
-  description: "Lorem ipsum dolor sit amet"
-  image: "https://picsum.photos/800/600"
+  title: Build My Own
+  description: Tell us what you want in your Alfa Romeo vehicle and we'll find the one that is right for you.
+  image: https://picsum.photos/800/600
+  button: Get Started
 
 - id: 2
-  title: "Lorem Title"
-  description: "Lorem ipsum dolor sit amet "
-  image: "https://picsum.photos/800/600"
+  title: Find A Dealer
+  description: Locate an Alfa Romeo dealer near you for more details on special offers.
+  image: https://picsum.photos/800/600
+  button: Find A Dealer
 
 - id: 3
-  title: "Lorem Title"
-  description: "Lorem ipsum dolor sit amet"
-  image: "https://picsum.photos/800/600"
+  title: Test Drive An Alfa Romeo
+  description: Tease your senses by getting behind the wheel of an Alfa Romeo. Schedule a test drive today.
+  image: https://picsum.photos/800/600
+  button: Schedule A Test Drive
