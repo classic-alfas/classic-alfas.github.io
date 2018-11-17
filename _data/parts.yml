@@ -11,7 +11,7 @@
   price: 175
 - name: Fuse Box
   model: 105 Series
-  filter-model: 
+  filter-model: 105 Series
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431734/Parts/Fuse_Box_-_105_Series_125..jpg
   price: 125
 - name: Side Marker
