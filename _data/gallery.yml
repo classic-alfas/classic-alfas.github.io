@@ -1,38 +1,31 @@
+---
 - rank: 1
-  title: "Section title"
-  type: "filter1"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
+  title: Section title2
+  type: filter1
+  image: https://picsum.photos/600/600
+  link: ''
 - rank: 2
-  title: "Section Title"
-  type: "filter2"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
+  title: Section Title
+  type: filter2
+  image: https://picsum.photos/600/600
+  link: ''
 - rank: 3
-  title: "Section title"
-  type: "filter1"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
+  title: Section title
+  type: filter1
+  image: https://picsum.photos/600/600
+  link: ''
 - rank: 4
-  title: "Section Title"
-  type: "filter2"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
+  title: Section Title
+  type: filter2
+  image: https://picsum.photos/600/600
+  link: ''
 - rank: 5
-  title: "Section title"
-  type: "filter1"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
+  title: Section title
+  type: filter1
+  image: https://picsum.photos/600/600
+  link: ''
 - rank: 6
-  title: "Section Title"
-  type: "filter2"
-  image: "https://picsum.photos/600/600"
-  link: ""
-
-
-
+  title: Section Title
+  type: filter2
+  image: https://picsum.photos/600/600
+  link: ''
