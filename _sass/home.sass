@@ -277,118 +277,6 @@ nav
             letter-spacing: 1px
             margin-left: 30px
 
-.modal-content
-  padding: 100px 0
-  z-index: 2
-  border: none
-  border-radius: 2px
-  -webkit-box-shadow: none
-  -moz-box-shadow: none
-  box-shadow: none
-  background-color: white
-  .close-modal
-    position: absolute
-    top: 25px
-    right: 25px
-    width: 75px
-    height: 75px
-    background-color: transparent
-    cursor: pointer
-    z-index: 3
-    transition: all 300ms ease-in-out
-    .lr
-      z-index: 1051
-      width: 1px
-      height: 75px
-      margin-left: 35px
-      background-color: #222
-      -webkit-transform: rotate(45deg)
-      -ms-transform: rotate(45deg)
-      transform: rotate(45deg)
-      .rl
-        z-index: 1052
-        width: 1px
-        height: 75px
-        background-color: #222
-        -webkit-transform: rotate(90deg)
-        -ms-transform: rotate(90deg)
-        transform: rotate(90deg)
-    &:hover
-      opacity: 0.5
-    &:focus
-      outline: none
-  .modal-body
-    padding-top: 0
-    padding-bottom: 0
-    color: $default-color-text
-    .header-section
-      &#package-header
-        padding-top: 30px
-        padding-bottom: 30px
-      .header-text
-        display: block
-        text-align: center
-        margin-top: 30px
-        margin-bottom: 45px
-        font-size: 18px
-        text-transform: uppercase
-        letter-spacing: 2px
-    .promo-content-section
-      .promo-content-list
-        margin-bottom: 30px
-        .promo-header
-          color: white
-          padding-top: 21px
-          padding-bottom: 21px
-          .promo-hour
-            color: white
-            display: block
-            font-size: 24px
-            text-align: center
-            font-family: 'Lato', sans-serif
-            font-weight: 900
-            text-transform: uppercase
-          .promo-price
-            display: block
-            font-size: 17px
-            text-align: center
-            font-family: 'Lato', sans-serif
-            font-weight: 900
-        .promo-content
-          padding-top: 15px
-          min-height: 300px
-          background-color: #f4f4f4
-          .promo-list
-            padding-top: 20px
-            .promo-text
-              display: block
-              font-size: 16px
-    .promo-inclusion-container
-      padding: 30px
-      background-color: #f4f4f4
-      width: 970px
-      margin-left: auto
-      margin-right: auto
-      .left-section
-        .promo-list
-          padding-top: 20px
-          .promo-item
-            display: block
-            font-size: 16px
-
-      .right-section
-        .promo-list
-          padding-top: 20px
-          .promo-item
-            display: block
-            font-size: 18px
-    .bottom-text
-      margin-top: 30px
-      display: block
-      text-align: center
-      font-size: 18px
-      line-height: 24px
-
 @media (min-width: 1500px)
   #cover
     .container-fluid
@@ -461,15 +349,6 @@ nav
         margin-bottom: 50px
     .rate-button-container
       margin-top: 0
-  .modal-content
-    .modal-body
-      .header-section
-        .header
-          font-size: 38px
-        .header-text
-          font-size: 16px
-      .promo-inclusion-container
-        width: 100%
 
   #booth
     .left-section
@@ -527,28 +406,6 @@ nav
       #header-section
         #header
           font-size: 38px
-
-  .modal-content
-    padding-top: 80px
-    .close-modal
-      top: 20px
-      right: 35px
-      width: 35px
-      height: 35px
-      .lr
-        height: 35px
-        .rl
-          height: 35px
-    .modal-body
-      .header-section
-        .header-text
-          font-size: 14px
-      .promo-content-section
-        .promo-content-list
-          .promo-content
-            min-height: 250px
-      .bottom-text
-        font-size: 16px
 
 @media (max-width: 800px) and (orientation: landscape)
   #cover
@@ -643,30 +500,3 @@ nav
               display: block
               text-align: center
               font-size: 14px
-
-  .modal-content
-    .promo-content-section
-      .promo-content-list
-        .promo-header
-          .promo-hour
-            font-size: 22px
-          .promo-price
-            font-size: 16px
-    .modal-body
-      .promo-inclusion-container
-        padding-left: 0
-        padding-right: 0
-      .header-section
-        &#package-header
-          padding-bottom: 0
-          .header
-            font-size: 18px
-
-
-
-
-
-
-
-
-

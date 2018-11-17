@@ -202,6 +202,54 @@ footer
       font-weight: 900
       text-align: center
 
+.modal
+  .modal-dialog
+    width: 100%
+    .modal-header
+      border-bottom: none
+      .modal-title
+        text-transform: uppercase
+        letter-spacing: 5px
+      .close
+        font-size: 36px
+    .modal-body
+      .form-container
+        padding-top: 20px
+        padding-bottom: 20px
+        form
+          .form-left
+            margin-top: -15px
+            .form-input
+              height: 50px
+              border: none
+              margin: 10px 0
+              box-shadow: none
+              background-color: #f5f5f5
+              //border-radius: 30px
+              color: #777777
+              font-size: 16px
+              padding: 10px 20px 15px
+          .form-right
+            .text-area
+              font-size: 16px
+              color: #777777
+              padding-left: 15px
+              box-shadow: none
+              border: none
+              resize: none
+              border-radius: 10px
+              background-color: #f5f5f5
+          #form-submit
+            background-color: #d84315
+            color: #fff
+            text-transform: uppercase
+            margin-top: 5px
+            border: none
+            width: 300px
+            float: right
+            margin-right: 15px
+            height: 50px
+
 @media (max-width: 991px)
   nav
     position: relative
@@ -321,6 +369,11 @@ footer
       border-right: none !important
       border-top: 1px solid #e7e7e7
 
+  .modal
+    .modal-dialog
+      margin-left: 0
+      margin-right: 0
+
 @media (max-width: 568px)
   body
     margin-top: 80px !important
@@ -339,10 +392,16 @@ footer
     .icon-bar
       width: 20px
 
-@media (max-width: 568px)
   footer
     .content-container
       .section-copyright
         font-size: 12px
 
-
+@media (max-width: 480px)
+  .modal
+    .modal-dialog
+      .modal-header
+        .modal-title
+          font-size: 14px
+        .close
+          font-size: 22px
