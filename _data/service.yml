@@ -1,23 +1,19 @@
+---
 - title: Parts for Sale
-  image: https://picsum.photos/640/640
-  url: /parts/
-
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431729/Parts/Fuse_Box_back_-_105_Series_125._.jpg.jpg
+  url: "/parts/"
 - title: Classics on Offer
   image: https://picsum.photos/640/640
-  url:
-
+  url: 
 - title: Race Inspired News
   image: https://picsum.photos/640/640
-  url:
-
+  url: 
 - title: Classic Auto Rental
   image: https://picsum.photos/640/640
-  url:
-
+  url: 
 - title: About Us
   image: https://picsum.photos/640/640
-  url:
-
+  url: 
 - title: Contact Us
   image: https://picsum.photos/640/640
-  url:
+  url: 
