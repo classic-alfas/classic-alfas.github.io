@@ -1,11 +1,24 @@
+//Variables
 $default-color-text: #3b3b3b
 $white: #ffffff
+
+//Global Declaration
+body
+  font-family: 'Lato', sans-serif
+  font-weight: 400
+  color: $default-color-text
+  font-size: 16px
+
+.no-gutter
+  padding-left: 0
+  padding-right: 0
+
 //navbar
 nav
   transition: all 300ms ease
   &.navbar-default
-    background-color: transparent !important
-    border-color: transparent !important
+    background-color: #00452b !important
+    box-shadow: 0px 0px 1px 0.5px #00452b !important
     border: none
     .container
       width: 100%
@@ -121,10 +134,8 @@ nav
             background-color: transparent
             &:hover
               color: white
+
   &.navbar-shrink
-    background-color: #00452b !important
-    box-shadow: 0px 0px 1px 0.5px #00452b !important
-    border: none
     .container
       .navbar-nav
         .navbar-menu

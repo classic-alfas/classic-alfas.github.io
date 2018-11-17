@@ -1,10 +1,10 @@
 body
-  margin-top: 109px
+  margin-top: 108px
 
-#gallery
+#parts
   position: relative
   min-height: 100vh
-  .gallery-banner
+  .parts-banner
     background-image: url("https://picsum.photos/1920/600")
     background-attachment: fixed
     background-size: cover
@@ -32,7 +32,7 @@ body
       color: white
       padding: 151px 0
 
-  #gallery-list
+  #parts-list
     margin-bottom: 100px
     .menu-container
       padding-top: 50px
@@ -179,19 +179,6 @@ body
         &:first-child:first-letter
           font-size: 200%
 
-@media (max-width: 1440px)
-  #reel-list
-    .reel-list-container
-      padding: 0
-      .grid
-        .reel-image-item
-          .popup-vimeo
-            .reel-image
-              height: 350px
-
-  #reel-specific
-    #video
-      height: 550px
 
 @media (max-width: 991px)
   nav.navbar-default
@@ -207,13 +194,13 @@ body
   .collapse.in
     border: 1px solid #e7e7e7 !important
 
-  #gallery
-    .gallery-banner
+  #parts
+    .parts-banner
       .banner
         font-size: 44px
         padding: 120px 0
-  #gallery
-    #gallery-list
+  #parts
+    #parts-list
       .menu-container
         padding-top: 0
         padding-bottom: 0
@@ -257,8 +244,8 @@ body
                 height: 300px
 
 @media (max-width: 568px)
-  #gallery
-    .gallery-banner
+  #parts
+    .parts-banner
       .banner
         padding: 50px 0
         font-size: 34px
