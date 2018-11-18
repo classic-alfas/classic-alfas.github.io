@@ -1,0 +1,23 @@
+#message-received
+  height: calc(100vh - 54px)
+  .container
+    height: inherit
+    .message-text
+      text-align: center
+      color: $default-color-text
+      position: relative
+      top: 50%
+      transform: translateY(-50%)
+      -webkit-transform: translateY(-50%)
+      -moz-transform: translateY(-50%)
+      -o-transform: translateY(-50%)
+      -ms-transform: translateY(-50%)
+
+@media (max-width: 991px )
+  #message-received
+    height: calc(100vh - 90px)
+
+@media (max-width: 480px)
+  #message-received
+    height: calc(100vh - 80px)
+
