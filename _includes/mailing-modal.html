@@ -1,0 +1,97 @@
+<div class="modal fade form-modals" id="mailingModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="container">
+        <div class="modal-dialog " role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h3 class="modal-title text-center">MAILING FORM</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="form-container clearfix">
+
+                        <form method="POST" action="http://fp1.formmail.com/cgi-bin/fm192">
+                            <div class="form-group form-left col-md-12 clearfix">
+
+                                <div class="col-xs-6">
+                                    <input type="text" class="form-control form-input" id="mail-fname" name="mail-fname"  placeholder="First Name" required>
+                                </div>
+
+                                <div class="col-xs-6">
+                                    <input type="text" class="form-control form-input" id="mail-lname" name="mail-lname"  placeholder="Last Name" required>
+                                </div>
+
+                                <div class="col-xs-12">
+                                    <input type="email" class="form-control form-input" id="mail-email" name="mail-email"  placeholder="Email Address" required>
+                                </div>
+
+                                <div class="col-xs-12">
+                                    <input type="text" class="form-control form-input" id="mail-street-address" name="mail-street-address"  placeholder="Street Address">
+                                </div>
+
+                                <div class="col-xs-6">
+                                    <input type="text" class="form-control form-input" id="mail-city" name="mail-city"  placeholder="City">
+                                </div>
+
+                                <div class="col-xs-6">
+                                    <input type="text" class="form-control form-input" id="mail-state" name="mail-state"  placeholder="State">
+                                </div>
+
+                                <div class="col-xs-12">
+                                    <input type="text" class="form-control form-input" id="mail-zip" name="mail-zip"  placeholder="Zip">
+                                </div>
+
+                                <div class="col-xs-6">
+                                    <div class="form-check">
+                                        <h4 class="checkbox-title">Topic</h4>
+                                        <input id="cheese" type="checkbox" name="ingredients[]" value="Cheese" />
+                                        <label for="cheese">Cheese</label>
+                                        <br />
+                                        <input id="olives" type="checkbox" name="ingredients[]" value="Olives" />
+                                        <label for="olives">Olives</label>
+                                        <br />
+                                        <input id="pepperoni" type="checkbox" name="ingredients[]" value="Pepperoni" />
+                                        <label for="pepperoni">Pepperoni</label>
+                                        <br />
+                                        <input id="anchovies" type="checkbox" name="ingredients[]" value="Anchovies" />
+                                        <label for="anchovies">Anchovies</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-xs-6">
+                                    <div class="form-check">
+                                        <h4 class="checkbox-title">Communication Preference</h4>
+                                        <input id="cheese" type="checkbox" name="ingredients[]" value="Cheese" />
+                                        <label for="cheese">Cheese</label>
+                                        <br />
+                                        <input id="olives" type="checkbox" name="ingredients[]" value="Olives" />
+                                        <label for="olives">Olives</label>
+                                        <br />
+                                        <input id="pepperoni" type="checkbox" name="ingredients[]" value="Pepperoni" />
+                                        <label for="pepperoni">Pepperoni</label>
+                                        <br />
+                                        <input id="anchovies" type="checkbox" name="ingredients[]" value="Anchovies" />
+                                        <label for="anchovies">Anchovies</label>
+                                    </div>
+                                </div>
+
+                            </div>
+                            
+
+
+                            <input type="hidden" name="_pid" value="53751">
+                            <input type="hidden" name="_fid" value="YEQE4514">
+                            <input type="hidden" name="recipient" value="1">
+                            <input type="hidden" name="subject" value="Message from ClassicAlfas.com">
+                            <input type="hidden" name="redirect" value="https://classic-alfas.github.io/message-received/">
+
+                            <button type="submit" id="form-submit" class="btn btn-primary">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
