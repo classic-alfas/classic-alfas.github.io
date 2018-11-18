@@ -35,19 +35,35 @@
             {% assign sorted-parts = site.data.parts %}
             {% for parts in sorted-parts %}
             <div class="col-lg-4 col-md-6 parts-image-item {{ parts.filter-model }}">
-                <a class="parts-link" href="#">
+                <a class="parts-link thumb" href="#">
                     <div class="parts-image-container">
                         <img src="{{ parts.image}}" class="img-responsive center-block"/>
                     </div>
+                    <div class="parts-details">
+                        <span class="parts-name">Part Name: {{ parts.name }}</span>
+                        <span class="parts-model">Model: {{ parts.model }}</span>
+                        <span class="parts-price">Price: ${{ parts.price }}</span>
+                    </div>
                 </a>
-                <div class="parts-details">
-                    <span class="parts-name">Part Name: {{ parts.name }}</span>
-                    <span class="parts-model">Model: {{ parts.model }}</span>
-                    <span class="parts-price">Price: ${{ parts.price }}</span>
-                </div>
             </div>
             {% endfor %}
         </div>
+
+        <!-- .modal-profile -->
+        <div class="modal fade modal-profile" tabindex="-1" role="dialog" aria-labelledby="modalProfile" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal">×</button>
+                    </div>
+                    <div class="modal-body">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- //.modal-profile -->
+
         <div id="no-result">
             <h2 id="result-text">Sorry, no result found.</h2>
         </div>
