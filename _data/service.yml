@@ -1,20 +1,19 @@
 ---
-- title: Parts for Sale
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431729/Parts/Fuse_Box_back_-_105_Series_125._.jpg.jpg
-  url: "/parts/"
 - title: Classics on Offer
   image: https://res.cloudinary.com/wesedholm/image/upload/w_640,f_auto,q_auto/v1542438329/Rentals_On_Offer/57_Spider/57_Spider_3_door_panel.jpg
   url: 
+- title: Parts for Sale
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431729/Parts/Fuse_Box_-_105_Series_125..jpg
+  url: "/parts/"
 - title: Race Inspired News
-  image: https://picsum.photos/640/640
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542438328/Rentals_On_Offer/57_Spider/57_spider_1a_racing.jpg
   url: 
 - title: Classic Auto Rental
-  image: https://picsum.photos/640/640
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542509322/Mustang_wedding_photo.jpg
   url: 
 - title: About Us
   image: https://picsum.photos/640/640
   url: 
 - title: Contact Us
-  image: https://picsum.photos/640/640
-
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542433607/assets/daniel-minarik-1150739-unsplash.jpg
   url: 
