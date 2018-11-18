@@ -1,60 +1,51 @@
+---
 - name: Lock assembly
   model: Giulietta
-  filter-model:
+  filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: 275
-
 - name: Speedometer
   model: 105 GT Series
-  filter-model:
+  filter-model: 105-GT-Series
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431738/Parts/Speedometer_-_105_GT_Series_175._Includes_USA_postage.jpg
   price: 175
-
 - name: Fuse Box
   model: 105 Series
-  filter-model:
+  filter-model: 105 Series
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431734/Parts/Fuse_Box_-_105_Series_125..jpg
   price: 125
-
 - name: Side Marker
   model: Giulia Sedan
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: 65
-
 - name: Heater Blower Motor
   model: Giulietta
-  filter-model:
+  filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: 125
-
 - name: Wiper Arms 2
   model: Giulia Sedan
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431689/Parts/Wiper_Arms_2_-_Giulia_Sedan_90._3_photos_includes_USA_postage_.jpg.jpg
   price: 90
-
 - name: License Frames 2
-  model:
-  filter-model:
+  model: 
+  filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431663/Parts/License_Frames_2_sturdy_construction_50._Includes_US_postage.jpg
   price: 50
-
 - name: Rocker Switch Acessembly
-  model:
-  filter-model:
+  model: 
+  filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431672/Parts/Rocker_Switch_Acessembly_photo_2_-_Giulia_TI_150._Includes_USA_postage.jpg
   price: 150
-
 - name: Mirrors 1 pair
-  model:
-  filter-model:
+  model: 
+  filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431670/Parts/Mirrors_1_pair_Vintage_Racing_65._Includes_USA_postage.jpg
   price: 65
-
-
 - name: Carb Strut 1600
   model: Veloce
-  filter-model:
+  filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,q_auto,f_auto/v1542431661/Parts/Carb_Strut_-_1600_Veloce_100._Includes_USA_postage.jpg
   price: 100
