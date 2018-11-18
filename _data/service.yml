@@ -7,7 +7,7 @@
   url: "/parts/"
 - title: Race Inspired News
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542438328/Rentals_On_Offer/57_Spider/57_spider_1a_racing.jpg
-  url: 
+  url:  "/news/"
 - title: Classic Auto Rental
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542509322/Mustang_wedding_photo.jpg
   url: "/classic-auto-rental/"
