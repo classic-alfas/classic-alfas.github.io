@@ -2,6 +2,9 @@
 label: test
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: file
+  label: test
+  name: testte
 pages:
 - pages/test.md
