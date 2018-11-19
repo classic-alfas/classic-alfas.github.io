@@ -7,12 +7,12 @@
   url: "/parts/"
 - title: Race Inspired News
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542438328/Rentals_On_Offer/57_Spider/57_spider_1a_racing.jpg
-  url:  "/news/"
+  url: "/news/"
 - title: Classic Auto Rental
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542509322/Mustang_wedding_photo.jpg
   url: "/classic-auto-rental/"
 - title: About Us
-  image: https://picsum.photos/640/640
+  image: https://res.cloudinary.com/wesedholm/image/upload/ar_4:3,c_fill/w_640,f_auto/v1542569342/Fred-About-Us-ClassicAlfas.jpg
   url: "/about-us/"
 - title: Contact Us
   image: https://res.cloudinary.com/wesedholm/image/upload/w_444,f_auto,q_auto/v1542433607/assets/daniel-minarik-1150739-unsplash.jpg
