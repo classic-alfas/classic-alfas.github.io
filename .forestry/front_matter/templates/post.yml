@@ -13,7 +13,7 @@ fields:
   name: categories
   label: categories
 - type: file
-  name: image
+  name: image_large
   label: Image large
   description: This image will be used as the hero image for the post
 - type: file
