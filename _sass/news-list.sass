@@ -1,5 +1,7 @@
 @import "main"
 
+$gray: #777
+
 #news-list
   .parts-banner
     background-attachment: fixed
@@ -38,3 +40,17 @@
   .news-list-container
     padding-top: 50px
     padding-bottom: 50px
+  .news-list-link
+    color: $default-color-text
+    transition: .2s color linear
+    &:hover
+      text-decoration: none
+      .caption
+        .title
+          color: $gray
+  .caption
+    text-align: center
+    padding: 12px 6px
+    .date
+      color: $gray
+  
