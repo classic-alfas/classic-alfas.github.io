@@ -16,7 +16,13 @@ sass:
   style: compressed
 
 collections:
-  news:
+  posts:
     output: true
-    permalink: /news/:path/
+    permalink: "/news/:title/"
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -4,17 +4,23 @@
 </div>
 
 <div class="container news-list-container">
-    {% for news-list in site.news %}
-    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-list-item">
+    {% for news_list in site.posts %}
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-list-item">
 
-        <a class="news-list-link" href="{{ news-list.url }}">
-            <div class="image-container">
-                <img src="{{ news-list.image-small }}" class="img-responsive center-block"/>
-            </div>
-            <div class="caption">
-                <h1 class="reel-title">{{ reel-list.title }}</h1>
-            </div>
-        </a>
-    </div>
+            <a class="news-list-link" href="{{ news_list.url }}">
+                {%- include helpers/check_empty_string.html the_string = news_list.image_small -%}
+                {%- if news_list.image_small and string_not_empty -%}
+                    {%- assign thumb_image = news_list.image_small -%}
+                {%- else -%}
+                    {%- assign thumb_image = news_list.image -%}
+                {%- endif -%}
+                <div class="image-container">
+                    <img src="{{ thumb_image | relative_url }}" class="img-responsive center-block"/>
+                </div>
+                <div class="caption">
+                    <h1 class="reel-title">{{ reel-list.title }}</h1>
+                </div>
+            </a>
+        </div>
     {% endfor %}
 </div>
