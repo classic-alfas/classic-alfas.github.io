@@ -15,3 +15,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _posts/test-post-1.md
