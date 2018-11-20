@@ -22,5 +22,5 @@ fields:
   description: This image will be used as the thumbnail. If left empty, the large
     image will be used
 pages:
-- _posts/test-post-2.md
+- _posts/2018-11-20-test-post-2.md
 - _posts/2018-11-20-test-post-1.md
