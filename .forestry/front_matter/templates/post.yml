@@ -14,6 +14,12 @@ fields:
   label: categories
 - type: file
   name: image
-  label: Image
+  label: Image large
+  description: This image will be used as the hero image for the post
+- type: file
+  name: image_small
+  label: Image small
+  description: This image will be used as the thumbnail. If left empty, the large
+    image will be used
 pages:
 - _posts/test-post-1.md
