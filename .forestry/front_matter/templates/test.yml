@@ -6,3 +6,5 @@ fields:
 - type: file
   label: test
   name: testte
+pages:
+- _posts/test-post.md
