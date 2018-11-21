@@ -3,9 +3,6 @@ label: Data - Gallery
 hide_body: true
 is_partial: false
 fields:
-- type: text
-  name: title
-  label: Title
 - type: field_group_list
   label: Items
   name: items
