@@ -16,3 +16,5 @@ fields:
   - type: file
     name: large_image
     label: Large image
+pages:
+- _data/gallery.md
