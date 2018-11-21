@@ -4,20 +4,18 @@
     <div class="row gallery">
 
         <div class="col-md-8">
-            <img id="large-image" src="https://via.placeholder.com/800x600.png?text=01" class="img-responsive" alt="Responsive image">
+            {%- assign first_item = site.data.gallery.items | first -%}
+            <img id="large-image" src="{{- first_item.large_image -}}" class="img-responsive" alt="Responsive image">
         </div>
 
         <div class="col-md-4">
-            <div class="col-xs-2 col-md-6">
-                <a href="https://via.placeholder.com/800x600.png?text=01" class="thumbnail">
-                    <img src="https://via.placeholder.com/150?text=01" alt="">
-                </a>
-            </div>
-            <div class="col-xs-2 col-md-6">
-                <a href="https://via.placeholder.com/800x600.png?text=02" class="thumbnail">
-                    <img src="https://via.placeholder.com/150?text=02" alt="">
-                </a>
-            </div>
+            {%- for item in site.data.gallery.items -%}
+                <div class="col-xs-2 col-md-6">
+                    <a href="{{- item.large_image -}}" class="thumbnail {% if forloop.first %}active{% endif %}">
+                        <img src="{{- item.thumbnail -}}" alt="">
+                    </a>
+                </div>
+            {%- endfor -%}
         </div>
         
     </div>
