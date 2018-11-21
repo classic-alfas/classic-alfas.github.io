@@ -3,7 +3,16 @@ layout: default
 css: classic-on-offer.css
 title: Classic on Offer
 javascript: >
+    <script>
+        
+        $('.thumbnail').on('click', function(e){
 
+            $('#large-image').attr('src', $(this).attr('href'));
+
+            return false;
+        });
+
+    </script>
 ---
 
 {{ content }}

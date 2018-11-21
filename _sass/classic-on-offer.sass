@@ -1,3 +1,5 @@
+$thumbnail-active-color: red
+
 #message-received
   height: calc(100vh - 54px)
   .container
@@ -20,3 +22,17 @@
 @media (max-width: 480px)
   #message-received
     height: calc(100vh - 80px)
+
+.gallery-wrapper
+  padding: 16px 0
+  h1
+    text-align: center
+
+.gallery
+  padding: 32px 0
+  .thumbnail
+    border-width: 2px
+  a.thumbnail.active,
+  a.thumbnail:focus,
+  a.thumbnail:hover
+    border-color: $thumbnail-active-color
