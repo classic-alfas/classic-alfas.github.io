@@ -4,6 +4,12 @@ home-section3-bg: https://res.cloudinary.com/wesedholm/image/upload/w_1920,f_aut
 parts-banner-bg: https://picsum.photos/1920/600
 news-banner-bg: https://picsum.photos/1920/600
 
+contact_form_title: Contact Classic Alfas
+contact_form_button_text: Submit
+
+mailing_form_title: MAILING FORM
+mailing_form_button_text: Subscribe
+
 email: pillar@marketing.com
 phone: (555) 555-1234 / (555) 555-1234
 mobile: (555) 555-1234 / (555) 555-1234

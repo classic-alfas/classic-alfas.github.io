@@ -6,7 +6,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
-                    <h3 class="modal-title text-center">Contact Classic Alfas</h3>
+                    <h3 class="modal-title text-center">{{- site.data.site.contact_form_title -}}</h3>
                 </div>
                 <div class="modal-body">
                     <div class="form-container clearfix">
@@ -79,7 +79,7 @@
                             <input type="hidden" name="subject" value="Message from ClassicAlfas.com">
                             <input type="hidden" name="redirect" value="https://classic-alfas.github.io/message-received/">
 
-                            <button type="submit" id="form-submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" id="form-submit" class="btn btn-primary">{{- site.data.site.contact_form_button_text -}}</button>
                         </form>
 
                     </div>
