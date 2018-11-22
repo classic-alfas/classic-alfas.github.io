@@ -17,8 +17,8 @@ sections:
   create: all
   templates:
   - post
-upload_dir: assets
-public_path: https://res.cloudinary.com/wesedholm/image/upload
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
