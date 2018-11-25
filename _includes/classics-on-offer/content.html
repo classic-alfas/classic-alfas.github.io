@@ -13,7 +13,8 @@
                     {%- if offer.thumbnail and string_not_empty -%}
                         {%- assign thumb_image = offer.thumbnail -%}
                     {%- else -%}
-                        {%- assign thumb_image = offer.image_large -%}
+                        {%- assign first_gallery_item = offer.items | first -%}
+                        {%- assign thumb_image = first_gallery_item.large_image -%}
                     {%- endif -%}
                     <div class="image-container">
                         <img src="{{ thumb_image }}" class="img-responsive center-block"/>
