@@ -5,7 +5,7 @@ is_partial: true
 display_field: items
 fields:
 - type: field_group_list
-  label: Items
+  label: Gallery Items
   name: items
   fields:
   - type: file
