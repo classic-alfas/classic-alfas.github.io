@@ -2,4 +2,13 @@
 label: Offer
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: file
+  name: thumbnail
+  label: Thumbnail
