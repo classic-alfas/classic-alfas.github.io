@@ -12,8 +12,8 @@ fields:
 - type: file
   name: thumbnail
   label: Teaser Image
-  description: This image will be shown in the offers list. If left, the first image
-    of the offer's gallery will be used
+  description: This image will be shown in the offers list. If left empty, the first
+    image of the offer's gallery will be used
 - type: include
   name: gallery
   label: Gallery
