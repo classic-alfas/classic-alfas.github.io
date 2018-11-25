@@ -22,6 +22,8 @@ sections:
   label: Offers
   create: documents
   match: "**/*"
+  templates:
+  - offer
 upload_dir: uploads
 public_path: "{{site.baseurl}}/uploads"
 front_matter_path: "/uploads"
