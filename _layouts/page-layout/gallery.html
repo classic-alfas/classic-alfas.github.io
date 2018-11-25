@@ -27,12 +27,12 @@ javascript: >
     <div class="gallery">
 
         <div class="col-md-8 img-wrapper">
-            {%- assign first_item = site.data.gallery.items | first -%}
+            {%- assign first_item = page.items | first -%}
             <img id="large-image" src="{{- first_item.large_image -}}" class="img-responsive" alt="Responsive image">
         </div>
 
         <div class="col-md-4">
-            {%- for item in site.data.gallery.items -%}
+            {%- for item in page.items -%}
                 <div class="col-xs-3 col-md-6">
                     <a href="{{- item.large_image -}}" class="thumbnail {% if forloop.first %}active{% endif %}">
                         <img src="{{- item.thumbnail -}}" alt="">
