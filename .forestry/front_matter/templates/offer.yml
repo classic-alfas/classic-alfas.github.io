@@ -12,5 +12,9 @@ fields:
 - type: file
   name: thumbnail
   label: Thumbnail
+- type: include
+  name: gallery
+  label: Gallery
+  template: data-gallery
 pages:
 - _offers/offer-4.md
