@@ -12,3 +12,5 @@ fields:
 - type: file
   name: thumbnail
   label: Thumbnail
+pages:
+- _offers/offer-4.md
