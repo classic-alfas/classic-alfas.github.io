@@ -11,7 +11,9 @@ fields:
   label: Date
 - type: file
   name: thumbnail
-  label: Thumbnail
+  label: Teaser Image
+  description: This image will be shown in the offers list. If not present, the first
+    image of the offer's gallery will be used instead
 - type: include
   name: gallery
   label: Gallery
