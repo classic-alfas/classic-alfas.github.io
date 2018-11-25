@@ -1,7 +1,8 @@
 ---
-label: Data - Gallery
+label: Gallery
 hide_body: true
-is_partial: false
+is_partial: true
+display_field: items
 fields:
 - type: field_group_list
   label: Items
