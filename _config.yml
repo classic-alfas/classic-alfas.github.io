@@ -19,6 +19,9 @@ collections:
   posts:
     output: true
     permalink: "/news/:title/"
+  offers:
+    output: true
+    permalink: "/offers/:title/"
 
 defaults:
   - scope:
@@ -26,3 +29,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "offers"
+    values:
+      layout: "page-layout/gallery"
