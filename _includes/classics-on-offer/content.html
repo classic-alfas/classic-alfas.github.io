@@ -4,13 +4,14 @@
 </div>
     
     <div class="container news-list-container">
-        {% for offer in site.offers %}
+        {%- assign offers = site.offers | sort: 'date' -%}
+        {% for offer in offers reversed %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-list-item">
     
                 <a class="news-list-link" href="{{ offer.url }}">
-                    {%- include helpers/check_empty_string.html the_string = offer.image_small -%}
-                    {%- if offer.image_small and string_not_empty -%}
-                        {%- assign thumb_image = offer.image_small -%}
+                    {%- include helpers/check_empty_string.html the_string = offer.thumbnail -%}
+                    {%- if offer.thumbnail and string_not_empty -%}
+                        {%- assign thumb_image = offer.thumbnail -%}
                     {%- else -%}
                         {%- assign thumb_image = offer.image_large -%}
                     {%- endif -%}
