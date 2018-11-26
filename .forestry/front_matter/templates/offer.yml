@@ -18,5 +18,3 @@ fields:
   name: gallery
   label: Gallery
   template: data-gallery
-pages:
-- _offers/offer-4.md
