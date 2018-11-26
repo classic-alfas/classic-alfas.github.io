@@ -1,7 +1,7 @@
 ---
 title: Offer 1
 date: 2018-11-03 22:00:00 +0000
-thumbnail: "/uploads/350x300.png"
+thumbnail: ''
 items:
 - thumbnail: "/uploads/Sprint_2b_nose[1].jpg"
   large_image: "/uploads/Sprint_2b_nose[1]-1.jpg"
