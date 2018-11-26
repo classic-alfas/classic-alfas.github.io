@@ -9,5 +9,6 @@ items:
   large_image: https://res.cloudinary.com/wesedholm/image/upload/v1542815210/assets/image-02.png
 - thumbnail: https://res.cloudinary.com/wesedholm/image/upload/v1542815212/assets/thumb-03.png
   large_image: https://res.cloudinary.com/wesedholm/image/upload/v1542815210/assets/image-03.png
+
 ---
-Offer 3
+Offer 3 
