@@ -1,8 +1,18 @@
 ---
 title: Offer 1
-date: 2018-11-03 22:00:00 +0000
+date: 2018-11-03 15:00:00 -0700
 thumbnail: ''
 items:
+- thumbnail: "/uploads/Sprint_8_interior_drivers_seat[1].jpg"
+  large_image: "/uploads/Sprint_8_interior_drivers_seat[1]-1.jpg"
+- thumbnail: "/uploads/Sprint_6b_rt_frt_side_copy[1].jpg"
+  large_image: "/uploads/Sprint_6b_rt_frt_side_copy[1]-1.jpg"
+- thumbnail: "/uploads/Sprint_7_interior[1].jpg"
+  large_image: "/uploads/Sprint_7_interior[1]-1.jpg"
+- thumbnail: "/uploads/Sprint_4_lft_side_closeup[1].jpg"
+  large_image: "/uploads/Sprint_4_lft_side_closeup[1]-1.jpg"
+- thumbnail: "/uploads/Sprint_6a_trunk_airplane[1].jpg"
+  large_image: "/uploads/Sprint_6a_trunk_airplane[1]-1.jpg"
 - thumbnail: "/uploads/Sprint_1_Racing[1].jpg"
   large_image: "/uploads/Sprint_1_Racing[1]-1.jpg"
 - thumbnail: "/uploads/Sprint_13_trunk[1].jpg"
