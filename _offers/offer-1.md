@@ -3,9 +3,14 @@ title: Offer 1
 date: 2018-11-03 22:00:00 +0000
 thumbnail: ''
 items:
-- {}
-- {}
-- {}
+- thumbnail: "/uploads/Sprint_1_Racing[1].jpg"
+  large_image: "/uploads/Sprint_1_Racing[1]-1.jpg"
+- thumbnail: "/uploads/Sprint_13_trunk[1].jpg"
+  large_image: "/uploads/Sprint_13_trunk[1]-1.jpg"
+- large_image: "/uploads/Sprint_11_engine_exhaust_side[1]-1.jpg"
+  thumbnail: "/uploads/Sprint_11_engine_exhaust_side[1].jpg"
+- large_image: "/uploads/Sprint_12_engine_intake_side[1]-1.jpg"
+  thumbnail: "/uploads/Sprint_12_engine_intake_side[1].jpg"
 - thumbnail: "/uploads/Sprint_2b_nose[1].jpg"
   large_image: "/uploads/Sprint_2b_nose[1]-1.jpg"
 - thumbnail: "/uploads/Sprint_6c_rear[1].jpg"
