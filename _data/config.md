@@ -9,15 +9,15 @@ backgrounds:
   news_item: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
   offer: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
 contact_form:
-  title: ''
-  button_text: ''
+  title: Contact Classic Alfas
+  button_text: Submit
 mailing_list_form:
-  title: ''
-  button_text: ''
+  title: MAILING FORM
+  button_text: Subscribe
 contact:
-  email: ''
-  phone: ''
-  mobile: ''
+  email: giuliasuper1967@aol.com
+  phone: 360-317-6337 call or text Pacific Standard Time
+  mobile: 360-770-2279 Call or text Pacific Standard Time
 published: false
 
 ---
