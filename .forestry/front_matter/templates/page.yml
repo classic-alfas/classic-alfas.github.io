@@ -19,5 +19,6 @@ fields:
   name: background_image
   label: Background image
 pages:
+- pages/news-list.html
 - pages/classics-on-offer.html
 - pages/about-us.md
