@@ -1,7 +1,4 @@
-<div class="parts-banner" style="background-image: url({{ site.data.site.news-banner-bg }})">
-    <div class="bg-overlay"></div>
-    <h2 class="banner">{{- page.title -}}</h2>
-</div>
+{%- include partials/page-title.html type = 'page' -%}
 
 <div class="container news-list-container">
     {% for news_list in site.posts %}

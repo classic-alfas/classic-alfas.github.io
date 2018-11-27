@@ -2,7 +2,6 @@
 layout: page-layout/about-us
 permalink: about-us/
 title: About Us
-
 ---
 ![]({{site.baseurl}}/uploads/Fred-About-Us-ClassicAlfas.jpg)
 

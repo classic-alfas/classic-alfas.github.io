@@ -3,10 +3,10 @@ layout: default
 css: about-us.css
 title: About Us
 javascript: >
-
 ---
 
+{%- include partials/page-title.html type = 'page' -%}
+
 <div class="container page-content">
-    <h1 class="message-text">{{- page.title -}}</h1>
     {{ content }}
 </div>

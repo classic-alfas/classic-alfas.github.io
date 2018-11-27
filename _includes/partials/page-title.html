@@ -1,6 +1,21 @@
 {%- include helpers/check_empty_string.html the_string = page.background_image -%}
+{%- if page.background_image and string_not_empty -%}
+    {%- assign bg_image = page.background_image -%}
+{%- else -%}
+    {%- if include.type == 'page' -%}
+        {%- assign bg_image = site.data.config.backgrounds.pages -%}
+    {%- elsif include.type == 'news_item' -%}
+        {%- assign bg_image = site.data.config.backgrounds.news_item -%}
+    {%- elsif include.type == 'offer' -%}
+        {%- assign bg_image = site.data.config.backgrounds.offer -%}
+    {%- endif -%}
+{%- endif -%}
 
-<div class="parts-banner" style="background-image: url({{ site.data.site.news-banner-bg }})">
+<div class="page-banner" style="background-image: url({{- bg_image | relative_url -}})">
     <div class="bg-overlay"></div>
     <h2 class="banner">{{- page.title -}}</h2>
+    {%- include helpers/check_empty_string.html the_string = page.subtitle -%}
+    {%- if page.subtitle and string_not_empty -%}
+        <span class="banner-sub-text">{{- page.subtitle -}}</span>
+    {%- endif -%}
 </div>
