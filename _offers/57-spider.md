@@ -13,8 +13,10 @@ items:
   large_image: "/uploads/1476395011[1]-2.jpg"
 - thumbnail: "/uploads/57_spider_2_lft_side[1].jpg"
   large_image: "/uploads/57_spider_2_lft_side[1]-1.jpg"
-- {}
-- {}
+- thumbnail: "/uploads/57_spider_4_dash_steering[1].jpg"
+  large_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
+- thumbnail: "/uploads/57_spider_5_rear[1].jpg"
+  large_image: "/uploads/57_spider_5_rear[1]-1.jpg"
 - {}
 - {}
 - {}
