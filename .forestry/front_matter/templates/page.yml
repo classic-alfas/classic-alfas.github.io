@@ -18,3 +18,5 @@ fields:
 - type: file
   name: background_image
   label: Background image
+pages:
+- pages/about-us.md
