@@ -18,6 +18,5 @@ contact:
   email: giuliasuper1967@aol.com
   phone: 360-317-6337 call or text Pacific Standard Time
   mobile: 360-770-2279 Call or text Pacific Standard Time
-published: false
 
 ---
