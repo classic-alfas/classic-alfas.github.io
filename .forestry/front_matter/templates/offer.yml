@@ -18,3 +18,5 @@ fields:
   name: gallery
   label: Gallery
   template: data-gallery
+pages:
+- _offers/57-spider.md
