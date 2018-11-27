@@ -6,7 +6,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
-                    <h3 class="modal-title text-center">{{- site.data.site.contact_form_title -}}</h3>
+                    <h3 class="modal-title text-center">{{- site.data.config.contact_form.title -}}</h3>
                 </div>
                 <div class="modal-body">
                     <div class="form-container clearfix">
@@ -54,17 +54,17 @@
                                     <p class="description">Thank you for contacting Classic Alfas. If you do not hear from us soon, please call/text to make sure we received your info.</p>
                                     <p class="description">
                                         <span class="contact-form-icon fa fa-phone"></span>
-                                        <span class="contact-form-info-text">{{- site.data.site.phone -}}</span>
+                                        <span class="contact-form-info-text">{{- site.data.config.contact.phone -}}</span>
                                         <span class="contact-form-info-text">Call or text Pacific Standard Time</span>
                                     </p>
                                     <p class="description">
                                         <span class="contact-form-icon fa fa-mobile-phone"></span>
-                                        <span class="contact-form-info-text">{{- site.data.site.mobile -}}</span>
+                                        <span class="contact-form-info-text">{{- site.data.config.contact.mobile -}}</span>
                                         <span class="contact-form-info-text">Call or text Pacific Standard Time</span>
                                     </p>
                                     <p class="description">
                                         <span class="contact-form-icon fa fa-envelope"></span>
-                                        <span class="contact-form-info-text">{{- site.data.site.email -}}</span>
+                                        <span class="contact-form-info-text">{{- site.data.config.contact.email -}}</span>
                                     </p>
                                     <p class="description">
                                         Location: Washington, USA
@@ -79,7 +79,7 @@
                             <input type="hidden" name="subject" value="Message from ClassicAlfas.com">
                             <input type="hidden" name="redirect" value="https://www.classicalfas.com/message-received/">
 
-                            <button type="submit" id="form-submit" class="btn btn-primary">{{- site.data.site.contact_form_button_text -}}</button>
+                            <button type="submit" id="form-submit" class="btn btn-primary">{{- site.data.config.contact_form.button_text -}}</button>
                         </form>
 
                     </div>

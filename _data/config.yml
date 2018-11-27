@@ -1,11 +1,8 @@
 ---
-title: Config
-date: 2018-11-27 11:22:38 +0000
 backgrounds:
   home_page_cover: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
   home_section_3: "/uploads/daniel-minarik-1150739-unsplash.jpg"
   pages: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
-  default: ''
   news_item: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
   offer: "/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
 contact_form:
