@@ -25,3 +25,23 @@ fields:
   - type: file
     name: offer
     label: Offer default
+- type: field_group
+  name: contact_form
+  label: Contact form
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: button_text
+    label: Button text
+- type: field_group
+  name: mailing_list_form
+  label: Mailing list form
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: button_text
+    label: Button text
