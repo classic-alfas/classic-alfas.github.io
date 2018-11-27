@@ -45,3 +45,16 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- type: field_group
+  name: contact
+  label: Contact
+  fields:
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: phone
+    label: phone
+  - type: text
+    name: mobile
+    label: Mobile
