@@ -56,4 +56,4 @@ fields:
     name: mobile
     label: Mobile
 pages:
-- _data/config.md
+- _data/config.yml
