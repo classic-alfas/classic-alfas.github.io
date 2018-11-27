@@ -17,11 +17,16 @@ items:
   large_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 - thumbnail: "/uploads/57_spider_5_rear[1].jpg"
   large_image: "/uploads/57_spider_5_rear[1]-1.jpg"
-- {}
-- {}
-- {}
-- {}
-- {}
+- thumbnail: "/uploads/57_spider_8_engine_exhaust_side[1].jpg"
+  large_image: "/uploads/57_spider_8_engine_exhaust_side[1]-1.jpg"
+- thumbnail: "/uploads/57_spider_10_trunk[1].jpg"
+  large_image: "/uploads/57_spider_10_trunk[1]-1.jpg"
+- thumbnail: "/uploads/57_spider_7_engine_compartment[1].jpg"
+  large_image: "/uploads/57_spider_7_engine_compartment[1]-1.jpg"
+- thumbnail: "/uploads/57_spider_9_engine_intake_side[1].jpg"
+  large_image: "/uploads/57_spider_9_engine_intake_side[1]-1.jpg"
+- thumbnail: "/uploads/57_spider_6_front_overhead[1].jpg"
+  large_image: "/uploads/57_spider_6_front_overhead[1]-1.jpg"
 - {}
 - {}
 - {}
