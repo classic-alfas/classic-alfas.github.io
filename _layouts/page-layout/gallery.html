@@ -31,7 +31,7 @@ javascript: >
             <img id="large-image" src="{{- first_item.large_image | relative_url -}}" class="img-responsive" alt="Responsive image">
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 thumbnails">
             {%- for item in page.items -%}
                 <div class="col-xs-3 col-md-6">
                     <a href="{{- item.large_image -}}" class="thumbnail {% if forloop.first %}active{% endif %}">

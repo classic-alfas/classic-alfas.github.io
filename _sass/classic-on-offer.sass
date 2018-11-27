@@ -25,12 +25,18 @@ $thumbnail-active-color: red
 
 .gallery-wrapper
   padding: 16px 0
-  min-height: calc(100vh - 54px)
+  @media (max-width: 991px )
+    padding-bottom: 0
   h1
     text-align: center
 
 .gallery
   padding: 32px 0
+  @media (max-width: 991px )
+    padding-bottom: 0
+  .thumbnails
+    max-height: 570px
+    overflow-y: scroll
   .thumbnail
     border-width: 2px
   a.thumbnail.active,
