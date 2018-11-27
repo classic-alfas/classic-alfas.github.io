@@ -19,4 +19,5 @@ fields:
   name: background_image
   label: Background image
 pages:
+- pages/classics-on-offer.html
 - pages/about-us.md
