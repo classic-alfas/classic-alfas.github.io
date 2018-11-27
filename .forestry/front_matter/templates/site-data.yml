@@ -17,9 +17,6 @@ fields:
     name: pages
     label: Pages default
   - type: file
-    name: default
-    label: Default
-  - type: file
     name: news_item
     label: News item default
   - type: file
