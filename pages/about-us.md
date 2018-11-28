@@ -3,7 +3,7 @@ layout: page-layout/about-us
 permalink: about-us/
 title: About Classic Alfas
 subtitle: 'What to say here? '
-background_image: "/uploads/1476395017[1]-1.jpg"
+background_image: ''
 
 ---
 Fred Schueddekopp was a competitive sailboat racer, a participant in the 1983 America's Cup, and he spent years in the sailmaking industry at North Sails before making the switch to cars.
