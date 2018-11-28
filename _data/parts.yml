@@ -29,11 +29,6 @@
   filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: 125
-- name: Wiper Arms 2
-  model: Giulia Sedan
-  filter-model: giulia-sedan
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431689/Parts/Wiper_Arms_2_-_Giulia_Sedan_90._3_photos_includes_USA_postage_.jpg.jpg
-  price: 90
 - name: Rocker Switch Acessembly
   model: 
   filter-model: 
@@ -49,3 +44,8 @@
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431661/Parts/Carb_Strut_-_1600_Veloce_100._Includes_USA_postage.jpg
   price: 100
+- name: Wiper Arms 2
+  model: Giulia Sedan
+  filter-model: giulia-sedan
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431689/Parts/Wiper_Arms_2_-_Giulia_Sedan_90._3_photos_includes_USA_postage_.jpg.jpg
+  price: 90
