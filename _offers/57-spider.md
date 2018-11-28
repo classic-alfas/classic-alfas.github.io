@@ -1,6 +1,6 @@
 ---
 title: 57 Spider
-date: 2018-11-27 01:02:16 -0800
+date: 2018-11-27 09:02:16 +0000
 thumbnail: ''
 items:
 - thumbnail: "/uploads/1476395015[1].jpg"
@@ -35,3 +35,10 @@ items:
   large_image: "/uploads/57_spider_1a_racing[1]-1.jpg"
 
 ---
+**'57 Alfa Giulietta Spider VIN# AR1495 01551** 
+
+**History:** Originally raced in eastern US since approximately 1970. At one time, it received attention from Mike Besic in the Chicago area— circa 1994. 
+
+It is currently set-up to FP specs and runs with most clubs in _Group 1_ for cars up to about 1961. As currently configured eligible to run with every vintage race organization in the US and Canada. The most recent owner had the car from 1997 through 2013 and raced mostly with _Sovern_ during that time. He loved the car and spent over $80,000 keeping it race ready. All receipts/records are on file and include work to the motor, transmission and suspension. 
+
+As back in the day, these spiders make excellent race cars\~ light, nimble and fast.
