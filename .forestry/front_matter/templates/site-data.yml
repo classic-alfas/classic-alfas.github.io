@@ -42,6 +42,9 @@ fields:
   - type: text
     name: button_text
     label: Button text
+  - type: text
+    name: home_page_text
+    label: Home page text
 - type: field_group
   name: contact
   label: Contact
