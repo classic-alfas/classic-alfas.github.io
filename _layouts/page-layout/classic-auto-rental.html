@@ -6,4 +6,8 @@ javascript: >
 
 ---
 
-{{ content }}
+{%- include partials/page-title.html type = 'page' -%}
+
+<div class="container page-content">
+    {{ content }}
+</div>

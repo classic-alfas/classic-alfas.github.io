@@ -4,6 +4,4 @@ permalink: classic-auto-rental/
 title: Classic Auto Rental
 
 ---
-<div id="message-received">
-    {% include classic-auto-rental/content.html %}
-</div>
+content
