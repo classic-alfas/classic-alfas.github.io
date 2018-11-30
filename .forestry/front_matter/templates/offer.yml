@@ -21,5 +21,7 @@ fields:
 - type: file
   name: background_image
   label: background image
+  description: If left empty, the background image from 'Offers Default', from config.yml
+    will be used.
 pages:
 - _offers/57-spider.md
