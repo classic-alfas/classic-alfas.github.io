@@ -18,5 +18,8 @@ fields:
   name: gallery
   label: Gallery
   template: data-gallery
+- type: file
+  name: background_image
+  label: background image
 pages:
 - _offers/57-spider.md
