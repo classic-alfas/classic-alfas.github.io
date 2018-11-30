@@ -19,8 +19,8 @@ fields:
   name: background_image
   label: Background image
 pages:
-- pages/parts.html
 - pages/classic-auto-rental.html
+- pages/parts.html
 - pages/news-list.html
 - pages/classics-on-offer.html
 - pages/about-us.md
