@@ -18,10 +18,10 @@ fields:
     label: Pages default
   - type: file
     name: news_item
-    label: News item default
+    label: News default
   - type: file
     name: offer
-    label: Offer default
+    label: Offers default
 - type: field_group
   name: contact_form
   label: Contact form
