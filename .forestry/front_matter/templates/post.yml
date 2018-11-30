@@ -13,9 +13,6 @@ fields:
   name: categories
   label: categories
 - type: file
-  name: background_image
-  label: Background image
-- type: file
   name: image_large
   label: Image large
   description: This image will be used as the hero image for the post
@@ -24,6 +21,9 @@ fields:
   label: Image small
   description: This image will be used as the thumbnail. If left empty, the large
     image will be used
+- type: file
+  name: background_image
+  label: Background image
 pages:
 - _posts/2018-11-20-sprint.md
 - _posts/2018-11-21-wes-test.md
