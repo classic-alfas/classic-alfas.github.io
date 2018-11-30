@@ -33,6 +33,7 @@ items:
   large_image: "/uploads/57_spider_1b_lft_front[1]-1.jpg"
 - thumbnail: "/uploads/57_spider_1a_racing[1].jpg"
   large_image: "/uploads/57_spider_1a_racing[1]-1.jpg"
+background_image: "/uploads/1476395011[1]-2.jpg"
 
 ---
 **'57 Alfa Giulietta Spider VIN# AR1495 01551** 
