@@ -1,12 +1,14 @@
-<div class="container">
-    <h1 class="text-center news-heading">{{- page.title -}}</h1>
-</div>
+{%- include partials/page-title.html type = 'news_item' -%}
+
 <section id="news">
-    <div class="container page-content">
-        <div class="image-container">
-            <img src="{{ page.image_large | relative_url }}" class="center-block img-responsive"/>
-        </div>
-        <div class="content-container">
+    <div class="container">
+        {%- include helpers/check_empty_string.html the_string = page.image_large -%}
+        {%- if page.image_large and string_not_empty -%}
+            <div class="image-container">
+                <img src="{{ page.image_large | relative_url }}" class="center-block img-responsive"/>
+            </div>
+        {%- endif -%}
+        <div class="content-container mt-0">
             {{ content }}
         </div>
     </div>
