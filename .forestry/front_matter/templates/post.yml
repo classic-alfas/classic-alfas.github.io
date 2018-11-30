@@ -24,6 +24,8 @@ fields:
 - type: file
   name: background_image
   label: Background image
+  description: If left empty, the background image from 'News Default', from config.yml
+    will be used.
 pages:
 - _posts/2018-11-20-sprint.md
 - _posts/2018-11-21-wes-test.md
