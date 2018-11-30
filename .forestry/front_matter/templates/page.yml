@@ -20,7 +20,6 @@ fields:
   label: Background image
 pages:
 - pages/news-list.html
-- pages/classic-auto-rental.html
 - pages/parts.html
 - pages/classics-on-offer.html
 - pages/about-us.md
