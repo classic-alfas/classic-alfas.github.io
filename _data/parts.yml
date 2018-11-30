@@ -29,11 +29,6 @@
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: 65
-- name: Heater Blower Motor
-  model: Giulietta
-  filter-model: Giulietta
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
-  price: 125
 - name: Rocker Switch Acessembly
   model: 
   filter-model: 
@@ -49,3 +44,8 @@
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431663/Parts/License_Frames_2_sturdy_construction_50._Includes_US_postage.jpg
   price: 50
+- name: Heater Blower Motor
+  model: Giulietta
+  filter-model: Giulietta
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
+  price: 125
