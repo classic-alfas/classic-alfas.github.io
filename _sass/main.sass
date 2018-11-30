@@ -510,6 +510,10 @@ img.msg
   margin-top: 0 !important
 
 .page-markdown
+  &::after
+    content: ""
+    clear: both
+    display: table
   h1,
   h2,
   h3,
@@ -520,3 +524,11 @@ img.msg
   p
     margin: 20px 0
     font-size: 18px
+  .float-right
+    float: right
+    max-width: 50%
+    margin: 10px
+  .float-left
+    float: left
+    max-width: 50%
+    margin: 10px
