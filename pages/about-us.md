@@ -9,7 +9,7 @@ background_image: ''
 {:.float-right}
 ![Fred Schueddekopp]({{site.baseurl}}/uploads/Fred-About-Us-ClassicAlfas.jpg "Fred Schueddekopp")
 
-Fred Schueddekopp was a competitive sailboat racer, a participant in the 1983 America's Cup, and he spent years in the sailmaking industry at North Sails before making the switch to cars.
+**Fred Schueddekopp was a competitive sailboat racer, a participant in the 1983 America's Cup, and he spent years in the sailmaking industry at North Sails before making the switch to cars.**
 
 Many of Fred's restoration skills were developed during his tenure with Mosier Restoration in Los Angeles. Fred started working on Alfa Romeos out of his home garage in Southern California in the late 1980s. Having spent a few years competing with IMSA in the Firestone Firehawk Series, he eventually got involved with vintage car racing through VARA. Racing his own cars quickly led to building and maintaining cars for customers, which he has continued to do ever since.
 
