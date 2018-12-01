@@ -9,10 +9,10 @@ contact_form:
   title: Contact Classic Alfas
   button_text: Submit
 mailing_list_form:
-  title: Yes, Please Notify Me of New Arrivals
-  button_text: Subscribe
-  home_page_text: Be notified when we add a new arrival!
-  home_page_button_text: Subscribe
+  title: Be Notified of New Arrivals
+  button_text: Submit
+  home_page_text: 'Want to be notified when we add a new arrival? '
+  home_page_button_text: Yes, Please Notify Me of New Arrivals
 contact:
   email: giuliasuper1967@aol.com
   phone: 360-317-6337 call or text PST
