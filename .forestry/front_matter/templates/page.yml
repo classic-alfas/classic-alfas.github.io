@@ -19,7 +19,7 @@ fields:
   name: background_image
   label: Background image
 pages:
+- pages/about-us.md
 - pages/news-list.html
 - pages/parts.html
 - pages/classics-on-offer.html
-- pages/about-us.md
