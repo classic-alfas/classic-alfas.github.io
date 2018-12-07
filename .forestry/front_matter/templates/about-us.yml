@@ -54,3 +54,5 @@ fields:
         - Right
         - Center
       label: Position
+pages:
+- pages/about-us.md
