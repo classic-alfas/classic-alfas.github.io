@@ -30,7 +30,7 @@ items:
 background_image: "/uploads/Sprint_4_lft_side_closeup[1]-1.jpg"
 
 ---
-## ’59  Alfa  Giulietta  Sprint  
+## ’59  Alfa  Giulietta  Sprint
 
 ### VIN  #  AR1493  09420  -  TIPO  750  B
 
@@ -40,6 +40,24 @@ When the current owner took possession of the car he entrusted Dennison Internat
 
 Many of the lovely Sprint features remain in place \~ trunk “airplane” and badging, dash & dash instruments, dash top mirror, radio block-off plate & more.
 
- The body is in excellent shape with original floors and retains the original steel doors, hood and trunk lid. A custom fabricated aluminum insert holds the fuel cell in the trunk.
+The body is in excellent shape with original floors and retains the original steel doors, hood and trunk lid. A custom fabricated aluminum insert holds the fuel cell in the trunk.
 
 Eligible to race with any vintage race organization.This Sprint is very well-balanced and easy to drive!
+
+S**PECIFICATIONS:**
+
+* 1300cc engine w/dual Weber carbs
+* Veloce headers and oil pan
+* Remote spin-on oil filter
+* Close ratio 5-speed transmission
+* Limited slip 5.12 differential
+* Racing springs & front anti-roll bar
+* Alloy SZ-style 15" wheels
+* Sturdy roll bar
+* Full cell recently updated lightweight AGM racing battery
+* Front disc brakes & drum rears with dual circuit master cylinder
+* AMB hardwired transponder
+
+Ready to race!
+
+Asking price: $59,500.
