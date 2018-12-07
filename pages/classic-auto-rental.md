@@ -19,7 +19,7 @@ $500.00 for 3 hours (staged). Plus delivery charges @ $1.00 per mile. **_For add
 
 **ADDITIONAL Rentals available:** 1959 Giuletta Spider (w/black interior). $800 plus delivery @ $1.00 per mile.
 
-Available SUMMER of 2019: '67 Alfa Romeo Duetto "boat tail" as seen in the movie "The Graduate".
+**Available SUMMER of 2019:** '67 Alfa Romeo Duetto "boat tail" as seen in the movie "The Graduate".
 
 **CONTACT:**  
 Currently shows:  
