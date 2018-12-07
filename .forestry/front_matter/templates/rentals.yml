@@ -18,8 +18,8 @@ fields:
 - type: text
   name: subheading
   label: Subheading
-- type: text
-  name: main_image
+- type: file
+  name: picture_frame
   label: Picture frame
   description: This image will have a 'frame' effect
 pages:
