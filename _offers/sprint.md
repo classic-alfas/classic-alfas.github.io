@@ -1,5 +1,5 @@
 ---
-title: Sprint
+title: 59 Alfa Giulietta Sprint
 date: 2018-11-25 23:00:00 +0000
 thumbnail: ''
 items:
@@ -30,6 +30,34 @@ items:
 background_image: "/uploads/Sprint_4_lft_side_closeup[1]-1.jpg"
 
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer a libero ac ante tempus interdum. Donec non purus. Donec sed dolor. Suspendisse faucibus. Aenean a nisl non ante nonummy hendrerit. Proin lacinia malesuada ipsum. Donec magna. Quisque risus magna, consectetuer non, suscipit sit amet, interdum ac, nibh. Nulla facilisi. Nullam lobortis, mauris et vehicula scelerisque, urna lectus faucibus diam, vel congue enim ligula ac tortor. Suspendisse venenatis auctor tellus. Nunc arcu elit, suscipit non, semper in, accumsan eget, felis. Cras id sapien at felis vulputate ullamcorper...
+## ’59  Alfa  Giulietta  Sprint
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer a libero ac ante tempus interdum. Donec non purus. Donec sed dolor. Suspendisse faucibus. Aenean a nisl non ante nonummy hendrerit. Proin lacinia malesuada ipsum. Donec magna. Quisque risus magna, consectetuer non, suscipit sit amet, interdum ac, nibh. Nulla facilisi. Nullam lobortis, mauris et vehicula scelerisque, urna lectus faucibus diam, vel congue enim ligula ac tortor. Suspendisse venenatis auctor tellus. Nunc arcu elit, suscipit non, semper in, accumsan eget, felis. Cras id sapien at felis vulputate ullamcorper...
+### VIN  #  AR1493  09420  -  TIPO  750  B
+
+**HISTORY:** This car was raced originally by Dick Barwell in British Columbia, Canada & the Northwest from 1975-1977. His racing accomplishments are noted (see separate pdf.) & due to his many victories, he was referred to as B.C.’s version of A.J. Foyt!
+
+When the current owner took possession of the car he entrusted Dennison International, a multiple Pebble Beach “Best of Show” winner, to restore the body to original. Then as now the car has been maintained to the owner’s high standard with no expense spared. The paint and overall presentation is excellent and the car is in race ready condition.
+
+Many of the lovely Sprint features remain in place \~ trunk “airplane” and badging, dash & dash instruments, dash top mirror, radio block-off plate & more.
+
+The body is in excellent shape with original floors and retains the original steel doors, hood and trunk lid. A custom fabricated aluminum insert holds the fuel cell in the trunk.
+
+Eligible to race with any vintage race organization.This Sprint is very well-balanced and easy to drive!
+
+**SPECIFICATIONS:**
+
+* 1300cc engine w/dual Weber carbs
+* Veloce headers and oil pan
+* Remote spin-on oil filter
+* Close ratio 5-speed transmission
+* Limited slip 5.12 differential
+* Racing springs & front anti-roll bar
+* Alloy SZ-style 15" wheels
+* Sturdy roll bar
+* Full cell recently updated lightweight AGM racing battery
+* Front disc brakes & drum rears with dual circuit master cylinder
+* AMB hardwired transponder
+
+Ready to race!
+
+Asking price: $59,500.
