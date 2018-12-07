@@ -44,7 +44,7 @@ The body is in excellent shape with original floors and retains the original ste
 
 Eligible to race with any vintage race organization.This Sprint is very well-balanced and easy to drive!
 
-S**PECIFICATIONS:**
+**SPECIFICATIONS:**
 
 * 1300cc engine w/dual Weber carbs
 * Veloce headers and oil pan
