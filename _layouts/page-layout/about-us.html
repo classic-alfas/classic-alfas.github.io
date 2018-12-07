@@ -26,6 +26,14 @@ javascript: >
                         {%- endif -%}
                         <figure class="{{ position_classes }}">
                             <img src="{{- section.image.image | relative_url -}}" alt="{{- section.image.title -}}">
+                            {%- if section.image.caption -%}
+                                {%- include helpers/check_empty_string.html the_string = section.image.caption -%}
+                                {%- if string_not_empty -%}
+                                    <figcaption class="centered">
+                                        {{ section.image.caption | markdownify }}
+                                    </figcaption>
+                                {%- endif -%}
+                            {%- endif -%}
                         </figure>
                     {%- endif -%}
                 {%- endif -%}
