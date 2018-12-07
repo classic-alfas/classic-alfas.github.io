@@ -9,5 +9,21 @@ javascript: >
 {%- include partials/page-title.html type = 'page' -%}
 
 <div class="container page-content page-markdown">
+
+    <h2>{{- page.heading -}}</h2>
+    
+    <h3>{{- page.subheading -}}</h3>
+
+    {%- if page.picture_frame -%}
+        {%- include helpers/check_empty_string.html the_string = page.picture_frame -%}
+        {%- if string_not_empty -%}
+            <div class="centered page-content">
+                <div class="picture-frame">
+                    <img src="{{- page.picture_frame -}}" alt="">
+                </div>
+            </div>
+        {%- endif -%}
+    {%- endif -%}
+
     {{ content }}
 </div>
