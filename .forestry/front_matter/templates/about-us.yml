@@ -2,4 +2,16 @@
 label: About us
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: layout
+  label: Layout
+- type: text
+  name: permalink
+  label: Permalink
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: subtitle
+  label: Subtitle
