@@ -22,6 +22,10 @@ fields:
   name: sections
   label: Sections
   fields:
+  - type: text
+    name: title
+    label: Title
+    description: For use in the CMS only
   - type: textarea
     name: text
     label: Text
