@@ -21,5 +21,6 @@ fields:
 - type: text
   name: main_image
   label: Picture frame
+  description: This image will have a 'frame' effect
 pages:
 - pages/classic-auto-rental.md
