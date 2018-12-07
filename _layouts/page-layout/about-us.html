@@ -8,5 +8,32 @@ javascript: >
 {%- include partials/page-title.html type = 'page' -%}
 
 <div class="container page-content page-markdown">
+
+    {%- assign sections_size = page.sections | size -%}
+
+    {%- if sections_size > 0 -%}
+        {%- for section in page.sections -%}
+            <section>
+                {%- if section.image.image -%}
+                    {%- include helpers/check_empty_string.html the_string = section.image.image -%}
+                    {%- if string_not_empty -%}
+                        {%- if section.image.position == 'Left' -%}
+                            {%- assign position_classes = 'float-left' -%}
+                        {%- elsif section.image.position == 'Right' -%}
+                            {%- assign position_classes = 'float-right' -%}
+                        {%- elsif section.image.position == 'Center' -%}
+                            {%- assign position_classes = 'centered block' -%}
+                        {%- endif -%}
+                        <figure class="{{ position_classes }}">
+                            <img src="{{- section.image.image | relative_url -}}" alt="{{- section.image.title -}}">
+                        </figure>
+                    {%- endif -%}
+                {%- endif -%}
+
+                {{ section.text | markdownify }}
+            </section>
+        {%- endfor -%}
+    {%- endif -%}
+
     {{ content }}
 </div>

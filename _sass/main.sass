@@ -528,6 +528,11 @@ img.msg
   ul,
   ol
     line-height: 1.7
+  section
+    &::after
+    content: ""
+    clear: both
+    display: table
   .float-right
     float: right
     max-width: 50%
@@ -536,3 +541,8 @@ img.msg
     float: left
     max-width: 50%
     margin: 10px
+  .centered
+    text-align: center
+  .block
+    display: block
+    width: 100%
