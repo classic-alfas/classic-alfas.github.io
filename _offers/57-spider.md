@@ -36,9 +36,9 @@ items:
 background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 
 ---
-## **'57 Alfa Giulietta Spider**
+## '57 Alfa Giulietta Spider
 
-## VIN# AR1495 01551
+### VIN# AR1495 01551
 
 **History:** Originally raced in eastern US since approximately1970. At one time, it received attention from Mike Besic in the Chicago area–– circa 1994.
 
