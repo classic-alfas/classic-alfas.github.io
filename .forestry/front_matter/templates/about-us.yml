@@ -15,3 +15,42 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- type: file
+  label: Background Image
+  name: background_image
+- type: field_group_list
+  name: sections
+  label: Sections
+  fields:
+  - type: field_group
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: field_group
+    name: image
+    label: Image
+    fields:
+    - type: file
+      name: image
+      label: Image
+    - type: textarea
+      name: caption
+      label: Caption
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
+    - type: select
+      name: position
+      config:
+        source:
+          type: simple
+        options:
+        - Left
+        - Right
+        - Center
+      label: Position
