@@ -22,7 +22,6 @@ fields:
   name: sections
   label: Sections
   fields:
-  - type: field_group
   - type: textarea
     name: text
     label: Text
