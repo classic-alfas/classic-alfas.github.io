@@ -1,6 +1,5 @@
 ---
 title: 57 Alfa Giulietta Spider
-date: 2018-11-27 09:02:16 +0000
 thumbnail: "/uploads/57_Spider_3_door_panel[1]-1.jpg"
 items:
 - thumbnail: "/uploads/1476395015[1].jpg"

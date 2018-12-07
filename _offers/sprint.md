@@ -1,6 +1,5 @@
 ---
 title: 59 Alfa Giulietta Sprint
-date: 2018-11-25 23:00:00 +0000
 thumbnail: ''
 items:
 - thumbnail: "/uploads/Sprint_2b_nose[1].jpg"
