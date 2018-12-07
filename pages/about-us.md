@@ -18,6 +18,7 @@ sections:
 
       [giuliasuper1967@aol.com](mailto:giuliasuper1967@aol.com)
     position: Right
+  title: Fred
 
 ---
 {:.float-right}
