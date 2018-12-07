@@ -4,15 +4,9 @@ permalink: classic-auto-rental/
 title: Classic Auto Rental
 heading: Classic Memories
 subheading: Make your wedding even more unforgettable!
+picture_frame: "/uploads/Mustang_wedding_photo.jpg"
 
 ---
-## Classic Memories
-
-### _Make your wedding even more unforgettable!_
-
-{:.picture-frame}
-![]({{site.baseurl}}/uploads/Mustang_wedding_photo.jpg)
-
 **Restored 1964 (1/2) Mustang convertible (red of course). Red dash & steering wheel, black “pony" interior, white top (only used if raining.)**
 
 Delivered to your venue of choice: wedding reception, chapel, or other private location.
