@@ -21,3 +21,5 @@ fields:
 - type: text
   name: main_image
   label: Picture frame
+pages:
+- pages/classic-auto-rental.md

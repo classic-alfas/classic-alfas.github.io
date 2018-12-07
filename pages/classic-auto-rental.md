@@ -2,6 +2,8 @@
 layout: page-layout/classic-auto-rental
 permalink: classic-auto-rental/
 title: Classic Auto Rental
+heading: Classic Memories
+subheading: Make your wedding even more unforgettable!
 
 ---
 ## Classic Memories
