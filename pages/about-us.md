@@ -2,7 +2,7 @@
 layout: page-layout/about-us
 permalink: about-us/
 title: About Classic Alfas
-subtitle: 'What to say here? '
+subtitle: Maintaining the legacy of Alfa Romeo
 background_image: ''
 sections:
 - text: |-
