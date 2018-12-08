@@ -552,10 +552,22 @@ img.msg
     float: right
     max-width: 49%
     margin: 0 0 20px 20px
+    @media (max-width: 990px)
+      margin-left: 10px
+      max-width: 47%
+    @media (max-width: 480px)
+      width: 100%
+      max-width: 100% !important
   .float-left
     float: left
     max-width: 49%
     margin: 0 20px 20px 0
+    @media (max-width: 990px)
+      margin-right: 10px
+      max-width: 47%
+    @media (max-width: 480px)
+      width: 100%
+      max-width: 100% !important
   .with-floated
     &::after
       content: ""
