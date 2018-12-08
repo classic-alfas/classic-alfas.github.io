@@ -11,7 +11,7 @@ picture_frame: "/uploads/Mustang_wedding_photo.jpg"
 
 Delivered to your venue of choice: wedding reception, chapel, or other private location.
 
-$500.00 for 3 hours (staged). Plus delivery charges @ $1.00 per mile. **_For additional info. call/text: 360-317-6337._**
+$500.00 for 3 hours (staged). Plus delivery charges @ $1.00 per mile. **_For additional info. call/text: 360-317-6337._** 
 
 {:.with-floated}
 ![]({{site.baseurl}}/uploads/Mustang-photo-interior.jpg){:.float-left}
