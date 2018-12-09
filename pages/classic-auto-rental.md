@@ -13,7 +13,7 @@ Delivered to your venue of choice: wedding reception, chapel, or other private l
 
 $500.00 for 3 hours (staged). Plus delivery charges @ $1.00 per mile. **_For additional info. call/text: 360-317-6337._**
 
-![](https://res.cloudinary.com/wesedholm/image/upload/w_800,q_90/v1544344842/mustang-photo-stack.jpg)
+![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,q_90/v1544344842/mustang-photo-stack.jpg)
 
 **ADDITIONAL Rentals available:** 1959 Giuletta Spider (w/black interior). $800 plus delivery @ $1.00 per mile.**Available SUMMER of 2019:** '67 Alfa Romeo Duetto "boat tail" as seen in the movie "The Graduate".
 
