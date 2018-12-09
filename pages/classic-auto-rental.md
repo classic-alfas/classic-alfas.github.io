@@ -15,11 +15,7 @@ $500.00 for 3 hours (staged). Plus delivery charges @ $1.00 per mile. **_For add
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_1444,q_90/v1544346157/mustang-photo-stack-larger.jpg)
 
-![]({{site.baseurl}}/uploads/mustang-photo-stack-larger\[1\].jpg)
-
-![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,q_90/v1544344842/mustang-photo-stack.jpg)
-
-**ADDITIONAL Rentals available:** 1959 Giuletta Spider (w/black interior). $800 plus delivery @ $1.00 per mile.**Available SUMMER of 2019:** '67 Alfa Romeo Duetto "boat tail" as seen in the movie "The Graduate".
+![]({{site.baseurl}}/uploads/mustang-photo-stack-larger\[1\].jpg)**ADDITIONAL Rentals available:** 1959 Giuletta Spider (w/black interior). $800 plus delivery @ $1.00 per mile.**Available SUMMER of 2019:** '67 Alfa Romeo Duetto "boat tail" as seen in the movie "The Graduate".
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_800,q_90/v1544345602/CLASSIC-RENTAL-DUETTO-.jpg)
 
