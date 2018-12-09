@@ -2,14 +2,6 @@
 title: 57 Alfa Giulietta Spider
 thumbnail: "/uploads/57_Spider_3_door_panel[1]-1.jpg"
 items:
-- thumbnail: "/uploads/1476395015[1].jpg"
-  large_image: "/uploads/1476395015[1]-1.jpg"
-- thumbnail: "/uploads/1476395013[1].jpg"
-  large_image: "/uploads/1476395013[1]-1.jpg"
-- thumbnail: "/uploads/1476395017[1].jpg"
-  large_image: "/uploads/1476395017[1]-1.jpg"
-- thumbnail: "/uploads/1476395011[1]-1.jpg"
-  large_image: "/uploads/1476395011[1]-2.jpg"
 - thumbnail: "/uploads/57_spider_2_lft_side[1].jpg"
   large_image: "/uploads/57_spider_2_lft_side[1]-1.jpg"
 - thumbnail: "/uploads/57_spider_4_dash_steering[1].jpg"
@@ -32,6 +24,14 @@ items:
   large_image: "/uploads/57_spider_1b_lft_front[1]-1.jpg"
 - thumbnail: "/uploads/57_spider_1a_racing[1].jpg"
   large_image: "/uploads/57_spider_1a_racing[1]-1.jpg"
+- thumbnail: "/uploads/1476395015[1].jpg"
+  large_image: "/uploads/1476395015[1]-1.jpg"
+- thumbnail: "/uploads/1476395013[1].jpg"
+  large_image: "/uploads/1476395013[1]-1.jpg"
+- thumbnail: "/uploads/1476395017[1].jpg"
+  large_image: "/uploads/1476395017[1]-1.jpg"
+- thumbnail: "/uploads/1476395011[1]-1.jpg"
+  large_image: "/uploads/1476395011[1]-2.jpg"
 background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 
 ---
