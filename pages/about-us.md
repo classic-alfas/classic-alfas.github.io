@@ -27,7 +27,7 @@ sections:
 
     At  age  25  she  purchased  her  first  Alfa  Spider  and  was  hooked  on  Alfas  from  then  on!  Kathryn  enjoys  attending  vintage  racing  events  with  her  partner  Fred  Schueddekopp  and  driving  her  personal  Alfas  around  the  beautiful  San  Juan  and  Hawaiian  Islands.  She  is  currently  in  the  process  of  restoring  three  classics  with  Fred:  ’67  Alfa  Duetto,  ’59  Giulietta  Spider,  &  a  ’62  Jaguar  E-type.
   image:
-    image: "/uploads/Kathryn-ABOUT US-photo.jpg"
+    image: "/uploads/Kathryn_ABOUT_US_photo[1].jpg"
     position: Right
 
 ---
