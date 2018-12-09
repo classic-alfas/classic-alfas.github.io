@@ -60,3 +60,15 @@ Eligible to race with any vintage race organization.This Sprint is very well-bal
 Ready to race!
 
 Asking price: $59,500.
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390839/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_article_1A_of.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390838/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_Article_3_of_5.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390838/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_Article_1_B_of_5.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390838/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_Article_2_of_5.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390838/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_article_4_of_5.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390838/Rentals_On_Offer/Sprint/Dick_Barwell_driver_profile_59_Sprint.jpg)
