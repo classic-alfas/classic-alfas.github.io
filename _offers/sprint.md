@@ -59,7 +59,7 @@ Eligible to race with any vintage race organization.This Sprint is very well-bal
 
 Ready to race!
 
-Asking price: $59,500.
+**Asking price: $59,500.**
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_800/v1544390839/Rentals_On_Offer/Sprint/59_Sprint_Newspaper_article_1A_of.jpg)
 
