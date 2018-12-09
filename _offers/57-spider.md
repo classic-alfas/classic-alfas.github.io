@@ -39,9 +39,9 @@ background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 
 ### VIN# AR1495 01551
 
-**History:** Originally raced in eastern US since approximately1970. At one time, it received attention from Mike Besic in the Chicago area–– circa 1994.
+**History:** Originally raced in eastern US since approximately 1970. At one time, it received attention from Mike Besic in the Chicago area–– circa 1994.
 
-It is currently set-up to FP specs and runs with most clubs in Group 1 for cars up to about 1961. As currently configured eligible to run with every vintage race organization in the US and Canada. The most recent owner had the car from 1997 through 2013 and raced mostly with Sovern during that time.  He loved the car and spent over $80,000. keeping it race ready. All receipts/records are on file and include work to the motor, transmission and suspension.
+It is currently set-up to FP specs and runs with most clubs in Group 1 for cars up to about 1961. As currently configured eligible to run with every vintage race organization in the US and Canada. The most recent owner had the car from 1997 through 2013 and raced mostly with Sovern during that time.  He loved the car and spent over $80,000. keeping it race ready. All receipts/records are on file and include work to the motor, transmission and suspension. 
 
 As back in the day, these spiders make excellent race cars\~ light, nimble and fast.
 
@@ -62,4 +62,4 @@ As back in the day, these spiders make excellent race cars\~ light, nimble and f
 
 The body and paint are in excellent condition and the car retains its original steel doors as well as the hood & trunk lids. The nose with its original grille and "eyebrow" opening are in tact. Also included is a unique heavy duty vinyl two- part tonneau cover.
 
-Asking price: $37,500.
+**Asking price: $37,500.**
