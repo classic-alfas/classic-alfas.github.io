@@ -3,79 +3,8 @@ layout: default
 css: parts.css
 title: Parts
 javascript: >
-    <script type="text/javascript" src="/js/imagesloaded.pkgd.min.js"></script>
-    <script type="text/javascript" src="/js/isotope.pkgd.min.js"></script>
     <script type="text/javascript" src="/js/jquery.magnific-popup.min.js"></script>
     <script type="text/javascript">
-        // quick search regex
-        var qsRegex;
-        var filterValue;
-        var $container = $('.grid');
-        // init Isotope
-        $container = $(".grid").isotope({
-            itemSelector: '.parts-image-item',
-            layoutMode: 'fitRows',
-            sortAscending: true,
-            filter: function() {
-                var $this = $(this);
-                var searchResult = qsRegex ? $this.text().match(qsRegex) : true;
-                var selectResult = filterValue ? $this.is(filterValue) : true;
-                return searchResult  && selectResult;
-            }
-        });
-
-        $(".filters-2").on("change", function() {
-            // get filter value from option value
-            filterValue = $(this).val();
-            $container.isotope();
-        });
-
-        $('.filters-button-group').on('click', 'button', function () {
-            filterValue = $(this).attr('data-filter');
-            $container.isotope({});
-            //            return false;
-        });
-
-
-        $container.on( 'arrangeComplete', function( event, filteredItems ) {
-            if(filteredItems.length == 0 ){
-                $("#no-result").addClass("active");
-            }
-            else{
-                $("#no-result").removeClass("active");
-            }
-        });
-
-        // use value of search field to filter
-        var $quicksearch1 = $("#quicksearch1").keyup(
-            debounce(function() {
-                qsRegex = new RegExp($quicksearch1.val(), "gi");
-                $container.isotope();
-            })
-        );
-        var $quicksearch2 = $("#quicksearch2").keyup(
-            debounce(function() {
-                qsRegex = new RegExp($quicksearch2.val(), "gi");
-                $container.isotope();
-            })
-        );
-        // debounce so filtering doesn't happen every millisecond
-        function debounce(fn, threshold) {
-            var timeout;
-            return function debounced() {
-                if (timeout) {
-                    clearTimeout(timeout);
-                }
-                function delayed() {
-                    fn();
-                    timeout = null;
-                }
-                setTimeout(delayed, threshold || 100);
-            };
-        }
-
-
-
         /* show lightbox when clicking a thumbnail */
         $('a.thumb').click(function(event){
             event.preventDefault();
@@ -86,13 +15,7 @@ javascript: >
             content.html($(this).html());
             $(".modal-profile").modal({show:true});
         });
-
-
-
-
-
     </script>
-
 ---
 
 {{ content }}
