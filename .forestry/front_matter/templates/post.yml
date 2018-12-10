@@ -27,7 +27,7 @@ fields:
   description: If left empty, the background image from 'News Default', from config.yml
     will be used.
 pages:
-- _posts/2018-11-21-wes-test.md
 - _posts/2018-11-20-57-spider-online.md
+- _posts/2018-11-21-wes-test.md
 - _posts/vintage-race-photos.md
 - _posts/2018-11-20-sprint.md
