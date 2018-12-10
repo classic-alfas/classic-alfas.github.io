@@ -90,17 +90,39 @@ body
       .grid
         overflow: hidden
         display: block
+
+        @supports (display: flex)
+          display: flex
+          flex-wrap: wrap
+          justify-content: center
+
         .parts-image-item
           padding: 15px
           position: relative
+          @supports (display: flex)
+              display: flex
+              flex-direction: column
           .parts-link
             display: block
             text-decoration: none
+
+            @supports (display: flex)
+              display: flex
+              flex-direction: column
+              flex-grow: 1
+              border: 2px solid #e0e0e0
+
+            @supports (display: flex)
+              .parts-image-container
+                flex-grow: 1
+
             .parts-details
               padding: 20px
               border-left: 2px solid #e0e0e0
               border-bottom: 2px solid #e0e0e0
               border-right: 2px solid #e0e0e0
+              @supports (display: flex)
+                border: none
               .parts-name
                 display: block
                 margin-bottom: 5px
