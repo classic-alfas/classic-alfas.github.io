@@ -7,6 +7,3 @@ image_small: "/uploads/HEADER_PHOTO_CUSTOMER_CARS[1].jpg"
 background_image: "/uploads/2018-12-11_23-39-49_1[1].jpg"
 
 ---
-![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,q_auto/v1544392523/CustomerCars/HEADER_PHOTO_CUSTOMER_CARS.jpg)
-
-![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,q_auto/v1544392562/CustomerCars/CUSTOMER_CARS_5.jpg)
