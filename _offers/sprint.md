@@ -33,7 +33,7 @@ background_image: "/uploads/Sprint_4_lft_side_closeup[1]-1.jpg"
 
 ### VIN  #  AR1493  09420  -  TIPO  750  B
 
-**HISTORY:** This car was raced originally by Dick Barwell in British Columbia, Canada & the Northwest from 1975-1977. His racing accomplishments are noted (see separate pdf.) & due to his many victories, he was referred to as B.C.’s version of A.J. Foyt!
+**HISTORY:** This car was raced originally by Dick Barwell in British Columbia, Canada & the Northwest from 1975-1977. His racing accomplishments ( noted below ) are due to his many victories, he was referred to as B.C.’s version of A.J. Foyt!
 
 When the current owner took possession of the car he entrusted Dennison International, a multiple Pebble Beach “Best of Show” winner, to restore the body to original. Then as now the car has been maintained to the owner’s high standard with no expense spared. The paint and overall presentation is excellent and the car is in race ready condition.
 
@@ -41,7 +41,7 @@ Many of the lovely Sprint features remain in place \~ trunk “airplane” and b
 
 The body is in excellent shape with original floors and retains the original steel doors, hood and trunk lid. A custom fabricated aluminum insert holds the fuel cell in the trunk.
 
-Eligible to race with any vintage race organization.This Sprint is very well-balanced and easy to drive!
+Eligible to race with any vintage race organization. This Sprint is very well-balanced and easy to drive!
 
 **SPECIFICATIONS:**
 
