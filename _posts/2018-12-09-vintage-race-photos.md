@@ -1,15 +1,15 @@
 ---
 title: Vintage Race Photos
-date: 2018-12-09 21:53:33 +0000
+date: 2018-11-19 13:53:33 -0800
 categories: []
 image_large: ''
-image_small: ''
-background_image: ''
+image_small: "/uploads/VINTAGE_RACE_PHOTO_1[1].jpg"
+background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
 
 ---
-![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,f_auto/v1544392715/VintageRacePhotos/VINTAGE_RACE_PHOTO_7.jpg)
-
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,f_auto/v1544392716/VintageRacePhotos/VINTAGE_RACE_PHOTOS.jpg)
+
+![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,f_auto/v1544392715/VintageRacePhotos/VINTAGE_RACE_PHOTO_7.jpg)
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_1200,f_auto/v1544392716/VintageRacePhotos/VINTAGE_RACE_PHOTO_HEADER.jpg)
 
