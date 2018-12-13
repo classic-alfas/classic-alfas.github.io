@@ -34,3 +34,5 @@ defaults:
       type: "offers"
     values:
       layout: "page-layout/gallery"
+
+environment: production
