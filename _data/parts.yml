@@ -74,3 +74,13 @@
   filter-model:
   image: /uploads/parts/original-giulia-TI-factory-photograph.jpg
   price: 50
+- name: 1966 Grand Prix of Italy-Monza Program
+  model:
+  filter-model:
+  image: /uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg
+  price: 75
+- name: Competition Advisory Manual
+  model:
+  filter-model:
+  image: /uploads/parts/competition-advisory-manual-125.jpg
+  price: 125
