@@ -7,24 +7,24 @@ image_small: "/uploads/VINTAGE_RACE_PHOTO_1[1].jpg"
 background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
 
 ---
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_HEADER[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_HEADER.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_7[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_7.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTOS[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTOS.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_6[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_6.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_1[1]-1.jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_1-1.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_5[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_5.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_4[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_4.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_2[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_2.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_8[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_8.jpg)
 
-![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_3[1].jpg)
+![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_3.jpg)
