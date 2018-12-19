@@ -26,8 +26,9 @@
   <link rel="stylesheet" href="/css/{{ layout.css }}">
   {% endif %}
 
-  {%- include google-analytics.html -%}
+  <link rel="canonical" href="{{ site.production_url }}{{ page.url | replace:'index.html',''}}">
 
+  {%- include google-analytics.html -%}
 
 </head>
 <body>

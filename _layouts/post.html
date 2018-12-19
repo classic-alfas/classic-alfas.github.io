@@ -22,8 +22,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/news.css">
 
-  {%- include google-analytics.html -%}
+  <link rel="canonical" href="{{ site.production_url }}{{ page.url | replace:'index.html',''}}">
 
+  {%- include google-analytics.html -%}
 
 </head>
 <body>
