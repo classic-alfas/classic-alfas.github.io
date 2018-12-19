@@ -579,6 +579,9 @@ img.msg
       display: table
   .centered
     text-align: center !important
+    @supports (display: flex)
+      display: flex
+      justify-content: center
   .block
     display: block
     width: 100%
