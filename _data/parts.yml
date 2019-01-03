@@ -86,3 +86,38 @@
   filter-model: 
   image: "/uploads/parts/competition-advisory-manual-125.jpg"
   price: 125
+- name: Sparco Revil Seat - NEW with tag
+  model: 
+  filter-model: 
+  image: "/uploads/parts/sparco-revil-seat-new-with-tag.jpg"
+  price: 500
+- name: 56 Spider Block
+  model: 
+  filter-model: 
+  image: "/uploads/parts/56-spider-block.jpg"
+  price: 1000
+- name: 101 - 1300 Cylinder Head
+  model: 
+  filter-model: 
+  image: "/uploads/parts/101-1300-cylinder-head.jpg"
+  price: 750
+- name: 105- 1600 Cylinder head
+  model: 
+  filter-model: 
+  image: "/uploads/parts/105-1600-cylinder-head.jpg"
+  price: 800
+- name: 750 Veloce bell crank
+  model: 
+  filter-model: 
+  image: "/uploads/parts/750-veloce-bell-crank.jpg"
+  price: 100
+- name: 750 Veloce Marelli Starter
+  model: 
+  filter-model: 
+  image: "/uploads/parts/750-veloce-marelli-starter.jpg"
+  price: 200
+- name: Late 105 - 1600 cylinder head
+  model: 
+  filter-model: 
+  image: "/uploads/parts/late-105-1600-cylinder-head.jpg"
+  price: 600
