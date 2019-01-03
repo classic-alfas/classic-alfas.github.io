@@ -14,7 +14,11 @@
                     <div class="parts-details">
                         <span class="parts-name">Part Name: {{ parts.name }}</span>
                         <span class="parts-model">Model: {{ parts.model }}</span>
-                        <span class="parts-price">Price: ${{ parts.price }}</span>
+                        {%- if parts.sold == true -%}
+                            <strong class="parts-price text-danger">SOLD</strong>
+                        {%- else -%}
+                            <span class="parts-price">Price: ${{ parts.price }}</span>
+                        {%- endif -%}
                     </div>
                 </a>
             </div>
