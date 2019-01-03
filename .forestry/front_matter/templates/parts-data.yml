@@ -1,0 +1,36 @@
+---
+label: Parts - Data
+hide_body: 
+is_partial: 
+fields:
+- name: Parts
+  label: Parts
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: model
+    label: Model
+    type: text
+    hidden: false
+    default: ''
+  - name: filter-model
+    label: Filter model
+    type: text
+    hidden: false
+    default: ''
+  - name: image
+    label: Image
+    type: textarea
+    hidden: false
+    default: ''
+  - name: price
+    label: Price
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
