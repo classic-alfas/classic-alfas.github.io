@@ -14,6 +14,7 @@
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431661/Parts/Carb_Strut_-_1600_Veloce_100._Includes_USA_postage.jpg
   price: 100
+  sold: true
 - name: Wiper Arms 2
   model: Giulia Sedan
   filter-model: giulia-sedan
