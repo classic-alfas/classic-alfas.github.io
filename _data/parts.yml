@@ -24,23 +24,24 @@
   filter-model: 105 Series
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431734/Parts/Fuse_Box_-_105_Series_125..jpg
   price: 125
+  sold: true
 - name: Side Marker
   model: Giulia Sedan
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: 65
 - name: Rocker Switch Acessembly
-  model:
+  model: 
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431672/Parts/Rocker_Switch_Acessembly_photo_2_-_Giulia_TI_150._Includes_USA_postage.jpg
   price: 150
 - name: Mirrors 1 pair
-  model:
+  model: 
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431670/Parts/Mirrors_1_pair_Vintage_Racing_65._Includes_USA_postage.jpg
   price: 65
 - name: License Frames 2
-  model:
+  model: 
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431663/Parts/License_Frames_2_sturdy_construction_50._Includes_US_postage.jpg
   price: 50
@@ -52,35 +53,35 @@
 - name: Giulietta fans
   model: Giulietta
   filter-model: Giulietta
-  image: /uploads/parts/giulietta-fans.jpg
+  image: "/uploads/parts/giulietta-fans.jpg"
   price: 125 each
 - name: GT 1300 Junior Owners Manual
-  model:
+  model: 
   filter-model: 
-  image: /uploads/parts/gt-1300-junior-owners-manual.jpg
+  image: "/uploads/parts/gt-1300-junior-owners-manual.jpg"
   price: 75
 - name: Original SZ framed artwork
-  model:
+  model: 
   filter-model: 
-  image: /uploads/parts/original-SZ-framed-artwork.jpg
+  image: "/uploads/parts/original-SZ-framed-artwork.jpg"
   price: 75
 - name: Giulietta Sprint Carello Headlight Rings
   model: Giulietta
   filter-model: Giulietta
-  image: /uploads/parts/giulietta-sprint-carello-headlight-rings.jpg
+  image: "/uploads/parts/giulietta-sprint-carello-headlight-rings.jpg"
   price: 100 pair
 - name: Original Giulia TI factory photograph
-  model:
-  filter-model:
-  image: /uploads/parts/original-giulia-TI-factory-photograph.jpg
+  model: 
+  filter-model: 
+  image: "/uploads/parts/original-giulia-TI-factory-photograph.jpg"
   price: 50
 - name: 1966 Grand Prix of Italy-Monza Program
-  model:
-  filter-model:
-  image: /uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg
+  model: 
+  filter-model: 
+  image: "/uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg"
   price: 75
 - name: Competition Advisory Manual
-  model:
-  filter-model:
-  image: /uploads/parts/competition-advisory-manual-125.jpg
+  model: 
+  filter-model: 
+  image: "/uploads/parts/competition-advisory-manual-125.jpg"
   price: 125
