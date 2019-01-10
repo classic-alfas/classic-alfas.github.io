@@ -1,10 +1,4 @@
 ---
-- name: New Part
-  model: Whatever
-  filter-model: ''
-  image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/Parts/Speedometer_-_105_GT_Series_175._Includes_USA_postage.jpg
-  price: 555
-  sold: false
 - name: Lock assembly
   model: Giulietta
   filter-model: Giulietta
