@@ -5,17 +5,17 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: 275
   sold: false
-- name: Speedometer
-  model: 105 GT Series
-  filter-model: 105-GT-Series
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431738/Parts/Speedometer_-_105_GT_Series_175._Includes_USA_postage.jpg
-  price: 175
 - name: Carb Strut 1600
   model: Veloce
   filter-model: 
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431661/Parts/Carb_Strut_-_1600_Veloce_100._Includes_USA_postage.jpg
   price: 100
   sold: true
+- name: Speedometer
+  model: 105 GT Series
+  filter-model: 105-GT-Series
+  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431738/Parts/Speedometer_-_105_GT_Series_175._Includes_USA_postage.jpg
+  price: 175
 - name: Wiper Arms 2
   model: Giulia Sedan
   filter-model: giulia-sedan
