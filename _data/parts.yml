@@ -4,6 +4,7 @@
   filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: 275
+  sold: false
 - name: Speedometer
   model: 105 GT Series
   filter-model: 105-GT-Series
