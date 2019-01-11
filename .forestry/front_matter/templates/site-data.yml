@@ -49,6 +49,16 @@ fields:
     name: home_page_button_text
     label: Home page button text
 - type: field_group
+  name: sell_your_alfa
+  label: Sell your Alfa
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: button_text
+    label: Button Text
+- type: field_group
   name: contact
   label: Contact
   fields:
