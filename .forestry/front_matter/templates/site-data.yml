@@ -48,6 +48,11 @@ fields:
   - type: text
     name: home_page_button_text
     label: Home page button text
+  - type: file
+    name: background_image
+    label: Background image
+    description: If left empty, the image labeled 'Home section 3' from config.yml
+      and 'Backgrounds' group will be used'
 - type: field_group
   name: sell_your_alfa
   label: Sell your Alfa
