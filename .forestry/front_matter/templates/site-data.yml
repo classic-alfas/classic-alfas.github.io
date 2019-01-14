@@ -58,6 +58,9 @@ fields:
   - type: text
     name: button_text
     label: Button Text
+  - type: file
+    name: background_image
+    label: Background image
 - type: field_group
   name: contact
   label: Contact
