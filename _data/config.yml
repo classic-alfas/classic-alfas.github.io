@@ -13,9 +13,10 @@ mailing_list_form:
   button_text: Submit
   home_page_text: 'Want to be notified when we add a new arrival? '
   home_page_button_text: Yes, Please Notify Me of New Arrivals
-sell_your_alfa:
+sell_your_alfa: 
   title: Sell your Alfa on ClassicAlfas.com
-  button_text: Contact us for additional info
+  button_text: Contact us for additional info!
+  background_image: "/uploads/57_Spider_3_door_panel[1]-1.jpg"
 contact:
   email: giuliasuper1967@aol.com
   phone: 'FRED: 360-770-2279 Call or text PST'
