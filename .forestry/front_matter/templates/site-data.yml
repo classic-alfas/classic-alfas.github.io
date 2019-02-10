@@ -74,5 +74,3 @@ fields:
   - type: text
     name: mobile
     label: Mobile
-pages:
-- _data/config.yml
