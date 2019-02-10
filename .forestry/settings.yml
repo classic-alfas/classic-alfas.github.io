@@ -6,12 +6,6 @@ webhook_url:
 sections:
 - type: directory
   path: _data
-  label: Data files
-  create: all
-  match: "**/*"
-  new_doc_ext: ".yml"
-- type: directory
-  path: _data
   label: Data
   create: all
   match: "**/*"
