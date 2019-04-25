@@ -1,7 +1,6 @@
 ---
 label: Page
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -19,6 +18,6 @@ fields:
   name: background_image
   label: Background image
 pages:
+- pages/news-list.html
 - pages/parts.html
 - pages/classics-on-offer.html
-- pages/news-list.html

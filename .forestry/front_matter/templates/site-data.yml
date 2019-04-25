@@ -1,7 +1,6 @@
 ---
 label: Site - data
 hide_body: true
-is_partial: false
 fields:
 - type: field_group
   name: backgrounds

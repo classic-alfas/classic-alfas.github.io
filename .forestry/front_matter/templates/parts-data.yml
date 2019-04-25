@@ -1,7 +1,6 @@
 ---
 label: Parts - Data
 hide_body: false
-is_partial: false
 fields:
 - name: Parts
   label: Parts

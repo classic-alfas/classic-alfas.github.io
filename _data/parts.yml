@@ -5,12 +5,6 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: 275
   sold: false
-- name: Carb Strut 1600
-  model: Veloce
-  filter-model: 
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431661/Parts/Carb_Strut_-_1600_Veloce_100._Includes_USA_postage.jpg
-  price: 100
-  sold: true
 - name: Speedometer
   model: 105 GT Series
   filter-model: 105-GT-Series
@@ -21,12 +15,6 @@
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431689/Parts/Wiper_Arms_2_-_Giulia_Sedan_90._3_photos_includes_USA_postage_.jpg.jpg
   price: 90
-- name: Fuse Box
-  model: 105 Series
-  filter-model: 105 Series
-  image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431734/Parts/Fuse_Box_-_105_Series_125..jpg
-  price: 125
-  sold: true
 - name: Side Marker
   model: Giulia Sedan
   filter-model: giulia-sedan
@@ -67,26 +55,11 @@
   filter-model: 
   image: "/uploads/parts/original-SZ-framed-artwork.jpg"
   price: 75
-- name: Giulietta Sprint Carello Headlight Rings
-  model: Giulietta
-  filter-model: Giulietta
-  image: "/uploads/parts/giulietta-sprint-carello-headlight-rings.jpg"
-  price: 100 pair
-- name: Original Giulia TI factory photograph
-  model: 
-  filter-model: 
-  image: "/uploads/parts/original-giulia-TI-factory-photograph.jpg"
-  price: 50
 - name: 1966 Grand Prix of Italy-Monza Program
   model: 
   filter-model: 
   image: "/uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg"
   price: 75
-- name: Competition Advisory Manual
-  model: 
-  filter-model: 
-  image: "/uploads/parts/competition-advisory-manual-125.jpg"
-  price: 125
 - name: Sparco Revil Seat - NEW with tag
   model: 
   filter-model: 
@@ -97,11 +70,6 @@
   filter-model: 
   image: "/uploads/parts/56-spider-block.jpg"
   price: 1000
-- name: 101 - 1300 Cylinder Head
-  model: 
-  filter-model: 
-  image: "/uploads/parts/101-1300-cylinder-head.jpg"
-  price: 750
 - name: 105- 1600 Cylinder head
   model: 
   filter-model: 
@@ -112,11 +80,6 @@
   filter-model: 
   image: "/uploads/parts/750-veloce-bell-crank.jpg"
   price: 100
-- name: 750 Veloce Marelli Starter
-  model: 
-  filter-model: 
-  image: "/uploads/parts/750-veloce-marelli-starter.jpg"
-  price: 200
 - name: Late 105 - 1600 cylinder head
   model: 
   filter-model: 
