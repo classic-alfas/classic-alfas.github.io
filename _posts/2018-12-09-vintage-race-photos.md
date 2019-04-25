@@ -7,6 +7,16 @@ image_small: "/uploads/VINTAGE_RACE_PHOTO_1[1].jpg"
 background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
 
 ---
+![]({{site.baseurl}}/uploads/IMG_3345.JPG)
+
+![]({{site.baseurl}}/uploads/IMG_3423.JPG)
+
+![]({{site.baseurl}}/uploads/IMG_3523.JPG)
+
+![]({{site.baseurl}}/uploads/IMG_3935.JPG)
+
+![]({{site.baseurl}}/uploads/IMG_4018.JPG)
+
 ![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_HEADER.jpg)
 
 ![]({{site.baseurl}}/uploads/VINTAGE_RACE_PHOTO_7.jpg)
