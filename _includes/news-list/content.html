@@ -16,6 +16,12 @@
                 </div>
                 <div class="caption">
                     <h3 class="title">{{- news_list.title -}}</h4>
+                    {%- include helpers/check_empty_string.html the_string = news_list.date_updated -%}
+                    {%- if news_list.date_updated and string_not_empty -%}
+                        <p class="updated-info">
+                            {{ news_list.date_updated | date: '%-m/%-d/%Y' }}
+                        </p>
+                    {%- endif -%}
                 </div>
             </a>
         </div>
