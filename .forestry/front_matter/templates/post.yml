@@ -14,7 +14,7 @@ fields:
     required: false
     date_format: 
     time_format: 
-    display_utc: 
+    display_utc: true
 - type: datetime
   name: date
   label: Date
