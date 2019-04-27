@@ -72,6 +72,6 @@ background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
 * Original owners manual
 * Runs and drives GREAT!
 
-_Ready to drive…just smile & steer :)_
+_Ready to drive… just smile & steer :)_
 
 **$10,500**
