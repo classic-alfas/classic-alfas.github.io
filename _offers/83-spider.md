@@ -55,22 +55,22 @@ background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
 ---
 ## 1983 Alfa Romeo Spider Veloce
 
-- Desirable two pod dash layout!
-- Original wooden steering wheel in excellent condition.
-- Excellent paint, straight body and bumpers!
-- NO RUST!
-- Mileage: 112K
-- Serviced and maintained by Autostrada
-- Service records on file
-- Interior clean and original with “coco mats”
-- Un-cracked original dash
-- Power windows
-- Good cloth top and clear rear window
-- Original top boot
-- Drivers seat cushion redone
-- New tires
-- Original owners manual
-- Runs and drives GREAT!
+* Desirable two pod dash layout!
+* Original wooden steering wheel in excellent condition.
+* Excellent paint, straight body and bumpers!
+* NO RUST!
+* Mileage: 112K
+* Serviced and maintained by Autostrada
+* Service records on file
+* Interior clean and original with “coco mats”
+* Un-cracked original dash
+* Power windows
+* Good cloth top and clear rear window
+* Original top boot
+* Drivers seat cushion redone
+* New tires
+* Original owners manual
+* Runs and drives GREAT!
 
 _Ready to drive…just smile & steer :)_
 
