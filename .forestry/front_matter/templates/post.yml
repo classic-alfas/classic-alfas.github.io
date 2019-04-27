@@ -19,6 +19,8 @@ fields:
   name: date
   label: Date
   hidden: true
+  config:
+    display_utc: true
 - type: tag_list
   name: categories
   label: categories
