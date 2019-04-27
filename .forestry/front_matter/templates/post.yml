@@ -5,6 +5,16 @@ fields:
 - type: text
   name: title
   label: Title
+- name: date_updated
+  type: datetime
+  label: Date Updated
+  description: Optional; use this field if you want to display the date the page was
+    updated
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
 - type: datetime
   name: date
   label: Date
@@ -26,16 +36,6 @@ fields:
   label: Background image
   description: If left empty, the background image from 'News Default', from config.yml
     will be used.
-- name: date_updated
-  type: datetime
-  label: Date Updated
-  description: Optional; use this field if you want to include the date the page was
-    updated
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: 
 pages:
 - _posts/2018-12-09-vintage-race-photos.md
 - _posts/2018-11-18-customer-cars.md
