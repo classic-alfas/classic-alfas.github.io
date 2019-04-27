@@ -5,7 +5,7 @@ categories: []
 image_large: ''
 image_small: "/uploads/VINTAGE_RACE_PHOTO_1[1].jpg"
 background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
-date_updated: 2019-04-25 10:00:00 +0000
+date_updated: 2019-04-25 03:05:00 -0700
 
 ---
 ![]({{site.baseurl}}/uploads/IMG_3345.JPG)
