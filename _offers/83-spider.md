@@ -59,7 +59,7 @@ background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
 * Original wooden steering wheel in excellent condition.
 * Excellent paint, straight body and bumpers!
 * NO RUST!
-* Mileage: 112K
+* Mileage: 112K 
 * Serviced and maintained by Autostrada
 * Service records on file
 * Interior clean and original with “coco mats”

@@ -19,5 +19,5 @@ fields:
   label: Background image
 pages:
 - pages/news-list.html
-- pages/parts.html
 - pages/classics-on-offer.html
+- pages/parts.html
