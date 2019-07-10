@@ -1,7 +1,7 @@
 ---
 title: 1983 Alfa Romeo Spider Veloce
 thumbnail: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
-sale_pending: false
+sale_pending: true
 items:
 - thumbnail: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
   large_image: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
