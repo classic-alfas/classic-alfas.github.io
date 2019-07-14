@@ -70,8 +70,8 @@ background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
 * Original top boot
 * Drivers seat cushion redone
 * New tires
-* Original owners manual 
-* Runs and drives GREAT!
+* Original owners manual
+* Runs and drives GREAT
 
 _Ready to drive…just smile & steer :)_
 
