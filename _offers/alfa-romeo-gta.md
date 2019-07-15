@@ -1,8 +1,12 @@
 ---
 title: ALFA ROMEO GTA
 sale_pending: true
-thumbnail: "/uploads/#1.jpg"
-items: []
+thumbnail: "/uploads/gta-1.jpg"
+items:
+  - large_image: "/uploads/gta-1.jpg"
+  - large_image: "/uploads/gta-2.jpg"
+  - large_image: "/uploads/gta-3.jpg"
+  - large_image: "/uploads/gta-4.jpg"
 background_image: ''
 published: false
 

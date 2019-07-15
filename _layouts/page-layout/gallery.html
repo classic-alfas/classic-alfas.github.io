@@ -39,8 +39,13 @@ javascript: >
         <div class="col-md-4 thumbnails">
             {%- for item in page.items -%}
                 <div class="col-xs-3 col-md-6">
+                    {%- assign the_thumbnail = item.large_image -%}
+                    {%- include helpers/check_empty_string.html the_string = item.thumbnail -%}
+                    {%- if item.thumbnail and string_not_empty -%}
+                        {%- assign the_thumbnail = item.thumbnail -%}                        
+                    {%- endif -%}
                     <a href="{{- item.large_image -}}" class="thumbnail {% if forloop.first %}active{% endif %}">
-                        <img src="{{- item.thumbnail | relative_url -}}" alt="">
+                        <img src="{{- the_thumbnail | relative_url -}}" alt="">
                     </a>
                 </div>
             {%- endfor -%}
