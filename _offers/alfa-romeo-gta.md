@@ -19,4 +19,12 @@ Because of our unique knowledge and experience with these special cars we just h
 
 Keep checking the website for other new exciting offerings in the future!  Add your name to the mailing list!
 
-< insert top 5 photos from the pdf here > 
+![](/uploads/soconia-1969.jpg)
+
+![](/uploads/lisboa-1970.jpg)
+
+![](/uploads/huambo-1971.jpg)
+
+![](/uploads/novo-redondo-1971.jpg)
+
+![](/uploads/trophies.jpg) 
