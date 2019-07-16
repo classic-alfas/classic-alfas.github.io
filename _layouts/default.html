@@ -28,7 +28,12 @@
 
   <link rel="canonical" href="{{ site.production_url }}{{ page.url | replace:'index.html',''}}">
 
-  {% include google-analytics.html %}
+  {% if jekyll.environment == "production" %}
+    {% include google-analytics.html %}
+  {%- else -%}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
+
 
 </head>
 <body>
