@@ -3,10 +3,14 @@ title: ALFA ROMEO GTA
 sale_pending: true
 thumbnail: "/uploads/gta-1.jpg"
 items:
-  - large_image: "/uploads/gta-1.jpg"
-  - large_image: "/uploads/gta-2.jpg"
-  - large_image: "/uploads/gta-3.jpg"
-  - large_image: "/uploads/gta-4.jpg"
+- large_image: "/uploads/gta-1.jpg"
+  thumbnail: ''
+- large_image: "/uploads/gta-2.jpg"
+  thumbnail: ''
+- large_image: "/uploads/gta-3.jpg"
+  thumbnail: ''
+- large_image: "/uploads/gta-4.jpg"
+  thumbnail: ''
 background_image: ''
 order: 1
 
@@ -27,4 +31,4 @@ Keep checking the website for other new exciting offerings in the future!  Add y
 
 ![](/uploads/novo-redondo-1971.jpg)
 
-![](/uploads/trophies.jpg) 
+![](/uploads/trophies.jpg)
