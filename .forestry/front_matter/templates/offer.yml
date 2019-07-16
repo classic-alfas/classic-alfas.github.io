@@ -8,6 +8,16 @@ fields:
 - name: sale_pending
   type: boolean
   label: Sale Pending
+- name: order
+  type: number
+  label: Order
+  description: Set its position in the offers list
+  default: ''
+  required: true
+  config:
+    min: '1'
+    max: 
+    step: 
 - type: file
   name: thumbnail
   label: Teaser Image
