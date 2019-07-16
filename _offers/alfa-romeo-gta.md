@@ -8,6 +8,7 @@ items:
   - large_image: "/uploads/gta-3.jpg"
   - large_image: "/uploads/gta-4.jpg"
 background_image: ''
+order: 1
 
 ---
 ## Alfa Romeo GTA

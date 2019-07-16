@@ -1,8 +1,8 @@
 {%- include partials/page-title.html type = 'page' -%}
     
 <div class="container news-list-container">
-    {%- assign offers = site.offers | sort: 'date' -%}
-    {% for offer in offers reversed %}
+    {%- assign offers = site.offers | sort: 'order' -%}
+    {% for offer in offers %}
         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-list-item">
 
             <a class="news-list-link" href="{{ offer.url }}">

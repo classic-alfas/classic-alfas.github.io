@@ -36,5 +36,6 @@ defaults:
       type: "offers"
     values:
       layout: "page-layout/gallery"
+      order: 100
 
 environment: production
