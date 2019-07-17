@@ -1,5 +1,5 @@
 ---
-title: Vintage Race Photos Test
+title: Vintage Race Photos
 date: 2018-11-19T21:53:33.000+00:00
 categories: []
 image_large: ''
