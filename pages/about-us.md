@@ -22,10 +22,16 @@ sections:
     position: Right
   title: Fred Schueddekopp
 - title: Kathryn
-  text: |-
-    ### Kathryn’s  introduction  to  cars  &  racing  started  at  age  7  in  Las  Vegas.  From  her  dad’s  huge  garage  to  the  Stardust  Raceway she  spent  most  weekends  either  watching  the  “Drags”  or  cleaning  parts  and  packing  the  “chute"  of  her  dad’s  AA  Top  Fuel  dragster. Test
-
-    At  age  25  she  purchased  her  first  Alfa  Spider  and  was  hooked  on  Alfas  from  then  on!  Kathryn  enjoys  attending  vintage  racing  events  with  her  partner  Fred  Schueddekopp  and  driving  her  personal  Alfas  around  the  beautiful  San  Juan  and  Hawaiian  Islands.  She  is  currently  in  the  process  of  restoring  three  classics  with  Fred:  ’67  Alfa  Duetto,  ’59  Giulietta  Spider,  &  a  ’62  Jaguar  E-type.
+  text: "### Kathryn’s  introduction  to  cars  &  racing  started  at  age  7  in
+    \ Las  Vegas.  From  her  dad’s  huge  garage  to  the  Stardust  Raceway she
+    \ spent  most  weekends  either  watching  the  “Drags”  or  cleaning  parts  and
+    \ packing  the  “chute\"  of  her  dad’s  AA  Top  Fuel  dragster. \n\nAt  age
+    \ 25  she  purchased  her  first  Alfa  Spider  and  was  hooked  on  Alfas  from
+    \ then  on!  Kathryn  enjoys  attending  vintage  racing  events  with  her  partner
+    \ Fred  Schueddekopp  and  driving  her  personal  Alfas  around  the  beautiful
+    \ San  Juan  and  Hawaiian  Islands.  She  is  currently  in  the  process  of
+    \ restoring  three  classics  with  Fred:  ’67  Alfa  Duetto,  ’59  Giulietta
+    \ Spider,  &  a  ’62  Jaguar  E-type."
   image:
     image: "/uploads/Kathryn_ABOUT_US_photo[1].jpg"
     position: Right
