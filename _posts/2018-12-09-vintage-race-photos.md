@@ -1,11 +1,11 @@
 ---
-title: Vintage Race Photos
-date: 2018-11-19 21:53:33 +0000
+title: Vintage Race Photos Test
+date: 2018-11-19T21:53:33.000+00:00
 categories: []
 image_large: ''
 image_small: "/uploads/VINTAGE_RACE_PHOTO_1[1].jpg"
 background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
-date_updated: 2019-04-25 08:00:00 -0700
+date_updated: 2019-04-25T15:00:00.000+00:00
 
 ---
 ![]({{site.baseurl}}/uploads/IMG_3345.JPG)
