@@ -10,7 +10,6 @@
   filter-model: ''
   image: "/uploads/15X4.5-Original-Giulia-wheels-5-avail.jpg"
   price: 70 each
-  sold: ''
 - name: '101 Veloce intake manifold '
   model: ''
   filter-model: ''
@@ -22,7 +21,6 @@
   filter-model: ''
   image: "/uploads/American Racing 14X6 refinished 4 for $600.jpg"
   price: "600"
-  sold: ''
 - name: GTA Replica 14X6.5, 4 for $600
   model: ''
   filter-model: ''
@@ -34,7 +32,6 @@
   filter-model: ''
   image: "/uploads/Rebuilt-idler-box-$150.jpg"
   price: "150"
-  sold: ''
 - name: Lock assembly
   model: Giulietta
   filter-model: Giulietta
