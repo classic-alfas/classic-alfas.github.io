@@ -8,6 +8,21 @@ fields:
 - name: sale_pending
   type: boolean
   label: Sale Pending
+- name: status
+  type: select
+  default: For Sale
+  config:
+    required: false
+    options:
+    - For Sale
+    - Sale Pending
+    - Sold
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status
 - name: order
   type: number
   label: Order
