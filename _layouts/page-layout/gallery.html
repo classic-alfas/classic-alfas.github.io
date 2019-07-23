@@ -28,9 +28,9 @@ javascript: >
 
         <div class="col-md-8 img-wrapper">
             {%- assign first_item = page.items | first -%}
-            {%- if page.sale_pending == true -%}
+            {%- if page.status == 'Sale Pending' or page.status == 'Sold' -%}
                 <div class="sale-pending-banner">
-                    Sale Pending
+                    {{- page.status -}}
                 </div>
             {%- endif -%}
             <img id="large-image" src="{{- first_item.large_image | relative_url -}}" class="img-responsive" alt="Responsive image">

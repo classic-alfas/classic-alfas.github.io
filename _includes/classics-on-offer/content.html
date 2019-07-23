@@ -14,9 +14,9 @@
                     {%- assign thumb_image = first_gallery_item.large_image -%}
                 {%- endif -%}
                 <div class="image-container">
-                    {%- if offer.sale_pending == true -%}
+                    {%- if offer.status == 'Sale Pending' or offer.status == 'Sold' -%}
                         <div class="sale-pending-banner">
-                            Sale Pending
+                            {{- offer.status -}}
                         </div>
                     {%- endif -%}
                     <img src="{{ thumb_image | relative_url }}" class="img-responsive center-block"/>
