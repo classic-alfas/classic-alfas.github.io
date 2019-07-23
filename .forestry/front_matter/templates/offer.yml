@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: Title
-- name: sale_pending
-  type: boolean
-  label: Sale Pending
 - name: status
   type: select
   default: For Sale
