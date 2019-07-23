@@ -13,6 +13,7 @@ items:
   thumbnail: ''
 background_image: ''
 order: 1
+status: Sale Pending
 
 ---
 ## Alfa Romeo GTA
