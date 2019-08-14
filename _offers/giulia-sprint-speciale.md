@@ -3,7 +3,7 @@ title: Coming Soon - Giulia SPRINT SPECIALE
 thumbnail: "/uploads/IMG_4726.jpg"
 items:
 - thumbnail: "/uploads/IMG_4726.jpg"
-  large_image: "/uploads/IMG_4726-1.jpg"
+  large_image: "/uploads/IMG_4726.jpg"
 - thumbnail: "/uploads/IMG_4729.jpg"
   large_image: "/uploads/IMG_4729.jpg"
 - thumbnail: "/uploads/IMG_4730.jpg"
