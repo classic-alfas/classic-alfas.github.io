@@ -34,7 +34,7 @@ items:
   large_image: "/uploads/1476395011[1]-2.jpg"
 background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 sale_pending: false
-order: 2
+order: 3
 status: For Sale
 
 ---
