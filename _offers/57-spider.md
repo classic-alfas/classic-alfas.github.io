@@ -32,6 +32,8 @@ items:
   large_image: "/uploads/1476395017[1]-1.jpg"
 - thumbnail: "/uploads/1476395011[1]-1.jpg"
   large_image: "/uploads/1476395011[1]-2.jpg"
+- thumbnail: "/uploads/IMG_4735.JPG"
+  large_image: "/uploads/IMG_4735.JPG"
 background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 sale_pending: false
 order: 3
