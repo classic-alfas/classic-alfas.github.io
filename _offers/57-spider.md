@@ -37,7 +37,7 @@ items:
 background_image: "/uploads/57_spider_4_dash_steering[1]-1.jpg"
 sale_pending: false
 order: 3
-status: For Sale
+status: Sold
 
 ---
 ## '57 Alfa Giulietta Spider
