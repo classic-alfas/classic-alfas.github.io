@@ -12,7 +12,7 @@ items:
 - large_image: "/uploads/gta-4.jpg"
   thumbnail: ''
 background_image: ''
-order: 8
+order: 7
 status: Sold
 
 ---
