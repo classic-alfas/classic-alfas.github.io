@@ -27,7 +27,7 @@ items:
 - thumbnail: "/uploads/Sprint_8_interior_drivers_seat[1].jpg"
   large_image: "/uploads/Sprint_8_interior_drivers_seat[1]-1.jpg"
 background_image: "/uploads/Sprint_4_lft_side_closeup[1]-1.jpg"
-order: '1'
+order: "3"
 status: For Sale
 
 ---
