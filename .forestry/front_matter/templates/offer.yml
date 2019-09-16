@@ -21,15 +21,10 @@ fields:
       path: 
   label: Status
 - name: order
-  type: number
-  label: Order
-  description: Set its position in the offers list
-  default: ''
-  required: true
+  type: text
   config:
-    min: '1'
-    max: 
-    step: 
+    required: false
+  label: Order
 - type: file
   name: thumbnail
   label: Teaser Image
