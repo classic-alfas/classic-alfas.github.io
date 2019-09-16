@@ -12,7 +12,7 @@ items:
   large_image: "/uploads/IMG_4731.jpg"
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
-order: '2'
+order: '3'
 status: For Sale
 
 ---
