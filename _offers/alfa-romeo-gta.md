@@ -12,6 +12,10 @@ items:
 - large_image: "/uploads/gta-4.jpg"
   thumbnail: ''
 background_image: ''
+<<<<<<< HEAD
+=======
+order: 8
+>>>>>>> b53f78e4a8a51a24f2cba229e9a007865a14a5e1
 status: Sold
 
 ---

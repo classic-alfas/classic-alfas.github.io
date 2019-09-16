@@ -12,6 +12,10 @@ items:
   large_image: "/uploads/IMG_4731.jpg"
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
+<<<<<<< HEAD
+=======
+order: '3'
+>>>>>>> b53f78e4a8a51a24f2cba229e9a007865a14a5e1
 status: For Sale
 
 ---
