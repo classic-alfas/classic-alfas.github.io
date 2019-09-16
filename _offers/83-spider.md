@@ -54,7 +54,6 @@ items:
 background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
 order: '4'
 status: Sale Pending
-order: 5
 
 ---
 ## 1983 Alfa Romeo Spider Veloce
