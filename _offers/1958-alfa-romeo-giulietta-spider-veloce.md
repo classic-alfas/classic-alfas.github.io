@@ -12,10 +12,13 @@ Rare opportunity to acquire the finest available very desirable short wheelbase 
 
 Long term current ownership restoration completed in 2002. Only two previous owners with documented 68,000 original miles.
 
+{:.centered}
 Chassis #1495 04255
 
+{:.centered}
 Motore #1315 31411
 
+{:.centered}
 **Restoration**
 
 As the low mileage indicates, this car has had very limited exposure to road elements. It has never required any rust or collision repair. The eyebrows and grilles were fitted to the car perfectly. Color was matched exactly and applied by the painter from _Mosier Restoration,_ who previously won “best of show” and “best of class” at Pebble Beach. To this day the paint looks stunning. All the factory gaps remain even all around. All original trim pieces were properly polished or plated including proper clear or black cad on items such as seat sliders. All new rubber gaskets & seals on body & window door opening. Instruments cleaned, calibrated and checked.
