@@ -8,3 +8,6 @@ image_small: "/uploads/IMG_4850.jpeg"
 background_image: "/uploads/IMG_4850.jpeg"
 
 ---
+![]({{site.baseurl}}/uploads/IMG_4850.jpeg)
+
+Recently shown at the Concoso Italiano in Monterey with rave reviews. Check it out in the “Classics on Offer” section
