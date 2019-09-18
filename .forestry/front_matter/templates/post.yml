@@ -41,6 +41,7 @@ fields:
   description: If left empty, the background image from 'News Default', from config.yml
     will be used.
 pages:
+- _posts/58-spider-veloce-posted.md
 - _posts/2019-09-16-monterey-historics-2019.md
 - _posts/2018-11-18-customer-cars.md
 - _posts/2018-11-21-wes-test.md
