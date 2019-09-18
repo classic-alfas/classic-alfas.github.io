@@ -1,7 +1,7 @@
 ---
 title: Monterey Historics 2019
 date_updated: 
-date: 
+date: 2019-09-16 10:35:00 +0000
 categories: []
 image_large: "/uploads/IMG_4798.jpeg"
 image_small: "/uploads/IMG_4798.jpeg"
