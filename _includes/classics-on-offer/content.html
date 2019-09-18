@@ -2,6 +2,7 @@
     
 <div class="container news-list-container">
     {%- assign offers = site.offers | sort: 'order' -%}
+    <div class="row">
     {% for offer in offers %}
         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-list-item">
 
@@ -28,4 +29,5 @@
 
         </div>
     {% endfor %}
+    </div>
 </div>

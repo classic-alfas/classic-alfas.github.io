@@ -1,11 +1,59 @@
 ---
 status: For Sale
 title: 1958 Alfa Romeo Giulietta Spider Veloce
+thumbnail: "/uploads/58-spider-veloce-003.jpg"
 order: "1"
-thumbnail: ''
 items: []
 background_image: ''
-published: false
+items:
+- thumbnail: "/uploads/58-spider-veloce-001.jpg"
+  large_image: "/uploads/58-spider-veloce-001.jpg"
+- thumbnail: "/uploads/58-spider-veloce-002.jpg"
+  large_image: "/uploads/58-spider-veloce-002.jpg"
+- thumbnail: "/uploads/58-spider-veloce-003.jpg"
+  large_image: "/uploads/58-spider-veloce-003.jpg"
+- thumbnail: "/uploads/58-spider-veloce-004.jpg"
+  large_image: "/uploads/58-spider-veloce-004.jpg"
+- thumbnail: "/uploads/58-spider-veloce-005.jpg"
+  large_image: "/uploads/58-spider-veloce-005.jpg"
+- thumbnail: "/uploads/58-spider-veloce-006.jpg"
+  large_image: "/uploads/58-spider-veloce-006.jpg"
+- thumbnail: "/uploads/58-spider-veloce-007.jpg"
+  large_image: "/uploads/58-spider-veloce-007.jpg"
+- thumbnail: "/uploads/58-spider-veloce-008.jpg"
+  large_image: "/uploads/58-spider-veloce-008.jpg"
+- thumbnail: "/uploads/58-spider-veloce-019.jpg"
+  large_image: "/uploads/58-spider-veloce-019.jpg"
+- thumbnail: "/uploads/58-spider-veloce-010.jpg"
+  large_image: "/uploads/58-spider-veloce-010.jpg"
+- thumbnail: "/uploads/58-spider-veloce-011.jpg"
+  large_image: "/uploads/58-spider-veloce-011.jpg"
+- thumbnail: "/uploads/58-spider-veloce-012.jpg"
+  large_image: "/uploads/58-spider-veloce-012.jpg"
+- thumbnail: "/uploads/58-spider-veloce-012b.jpg"
+  large_image: "/uploads/58-spider-veloce-012b.jpg"
+- thumbnail: "/uploads/58-spider-veloce-012c.jpg"
+  large_image: "/uploads/58-spider-veloce-012c.jpg"
+- thumbnail: "/uploads/58-spider-veloce-013.jpg"
+  large_image: "/uploads/58-spider-veloce-013.jpg"
+- thumbnail: "/uploads/58-spider-veloce-014.jpg"
+  large_image: "/uploads/58-spider-veloce-014.jpg"
+- thumbnail: "/uploads/58-spider-veloce-015.jpg"
+  large_image: "/uploads/58-spider-veloce-015.jpg"
+- thumbnail: "/uploads/58-spider-veloce-016.jpg"
+  large_image: "/uploads/58-spider-veloce-016.jpg"
+- thumbnail: "/uploads/58-spider-veloce-017.jpg"
+  large_image: "/uploads/58-spider-veloce-017.jpg"
+- thumbnail: "/uploads/58-spider-veloce-018.jpg"
+  large_image: "/uploads/58-spider-veloce-018.jpg"
+- thumbnail: "/uploads/58-spider-veloce-019.jpg"
+  large_image: "/uploads/58-spider-veloce-019.jpg"
+- thumbnail: "/uploads/58-spider-veloce-020.jpg"
+  large_image: "/uploads/58-spider-veloce-020.jpg"
+- thumbnail: "/uploads/58-spider-veloce-021.jpg"
+  large_image: "/uploads/58-spider-veloce-021.jpg"
+- thumbnail: "/uploads/58-spider-veloce-022.jpg"
+  large_image: "/uploads/58-spider-veloce-022.jpg"
 
 ---
 Rare opportunity to acquire the finest available very desirable short wheelbase 750 series Spider Veloce.
