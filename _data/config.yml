@@ -11,8 +11,8 @@ contact_form:
 mailing_list_form:
   title: Be Notified of New Arrivals
   button_text: Submit
-  home_page_text: 'Want to be notified when we add a new arrival? '
-  home_page_button_text: Yes, Please Notify Me of New Arrivals
+  home_page_text: 'Want to be notified when we add a new arrival or part(s)? '
+  home_page_button_text: Yes, Please Notify Me of New Arrivals & Part(s)
 sell_your_alfa:
   title: Sell your Alfa on ClassicAlfas.com
   button_text: Contact us for additional info
