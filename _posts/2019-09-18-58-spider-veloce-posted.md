@@ -1,7 +1,7 @@
 ---
 date: 2019-09-18T06:13:43.000+00:00
 title: 58 Spider Veloce Posted
-date_updated: 2019-09-18 07:00:00 -0700
+date_updated: 
 categories: []
 image_large: ''
 image_small: "/uploads/IMG_4850.jpeg"
