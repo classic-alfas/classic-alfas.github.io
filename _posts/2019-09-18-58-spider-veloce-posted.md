@@ -10,4 +10,4 @@ background_image: "/uploads/IMG_4850.jpeg"
 ---
 ![]({{site.baseurl}}/uploads/IMG_4850.jpeg)
 
-Recently shown at the Concoso Italiano in Monterey with rave reviews. [Check it out](/offers/1958-alfa-romeo-giulietta-spider-veloce/) in the “Classics on Offer” section
+Recently shown at the Concoso Italiano in Monterey with rave reviews. [Check it out](/offers/1958-alfa-romeo-giulietta-spider-veloce/) in the “Classics on Offer” section. 
