@@ -40,6 +40,6 @@ fields:
   description: If left empty, the background image from 'Offers Default', from config.yml
     will be used.
 pages:
+- _offers/alfa-romeo-gta.md
 - _offers/1958-alfa-romeo-giulietta-spider-veloce.md
 - _offers/57-spider.md
-- _offers/alfa-romeo-gta.md
