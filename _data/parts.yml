@@ -10,6 +10,7 @@
   filter-model: ''
   image: "/uploads/15X4.5-Original-Giulia-wheels-5-avail.jpg"
   price: 70 each
+  sold: true
 - name: '101 Veloce intake manifold '
   model: ''
   filter-model: ''
