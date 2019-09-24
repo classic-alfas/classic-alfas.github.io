@@ -39,3 +39,6 @@ defaults:
       order: 100
 
 environment: production
+
+plugins:
+  - jekyll-sitemap

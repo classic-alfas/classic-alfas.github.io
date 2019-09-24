@@ -23,6 +23,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-paginate'
    gem 'jekyll-timeago'
+   gem 'jekyll-sitemap'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
