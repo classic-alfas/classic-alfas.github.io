@@ -14,6 +14,15 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description  
 - type: file
   name: background_image
   label: Background image

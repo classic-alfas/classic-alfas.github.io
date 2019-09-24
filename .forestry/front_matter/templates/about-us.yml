@@ -11,6 +11,15 @@ fields:
 - type: text
   name: title
   label: Title
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description  
 - type: text
   name: subtitle
   label: Subtitle
