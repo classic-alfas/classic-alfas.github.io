@@ -6,7 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="author" content="{{ site.title }}">
-  <meta name="description" content="{{ site.description }}">
+
+  {%- assign meta_desc_size = page.meta_description | size -%}
+  {%- if meta_desc_size > 0 -%}
+    {%- assign meta_desc = page.meta_description -%}
+  {%- else -%}
+    {%- assign meta_desc = site.data.config.meta.description -%}
+  {%- endif -%}
+  <meta name="description" content="{{- meta_desc -}}">
 
   {%- include favicon.html -%}
 
