@@ -101,21 +101,3 @@
   image: "/uploads/15X4.5-Original-Giulia-wheels-5-avail.jpg"
   price: 70 each
   sold: true
-- name: 2.0 L Block (Drilled & Tapped Oil Passages)
-  model: ''
-  filter-model: ''
-  image: "/uploads/2.0 L Block (Drilled & Tapped Oil Passages) $450.jpg"
-  price: "450"
-  sold: true
-- name: '101 Veloce intake manifold '
-  model: ''
-  filter-model: ''
-  image: "/uploads/101 Veloce intake manifold $950.jpg"
-  price: "950"
-  sold: true
-- name: GTA Replica 14X6.5, 4 for $600
-  model: ''
-  filter-model: ''
-  image: "/uploads/GTA Replica 14X6.5 4 for $600.jpg"
-  price: "600"
-  sold: true

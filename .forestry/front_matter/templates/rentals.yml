@@ -13,7 +13,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Meta description  
+  label: Meta description
 - type: text
   name: layout
   label: Layout

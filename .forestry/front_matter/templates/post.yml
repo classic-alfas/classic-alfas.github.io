@@ -13,7 +13,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Meta description  
+  label: Meta description
 - name: date_updated
   type: datetime
   label: Date Updated
