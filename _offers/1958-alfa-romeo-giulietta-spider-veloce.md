@@ -52,6 +52,12 @@ items:
   large_image: "/uploads/58-spider-veloce-020.jpg"
 - thumbnail: "/uploads/58-spider-veloce-021.jpg"
   large_image: "/uploads/58-spider-veloce-021.jpg"
+- thumbnail: "/uploads/FullSizeRender.jpg"
+  large_image: "/uploads/FullSizeRender.jpg"
+- thumbnail: "/uploads/FullSizeRender(1).jpg"
+  large_image: "/uploads/FullSizeRender(1).jpg"
+- thumbnail: "/uploads/FullSizeRender(2).jpg"
+  large_image: "/uploads/FullSizeRender(2).jpg"
 - thumbnail: "/uploads/58-spider-veloce-022.jpg"
   large_image: "/uploads/58-spider-veloce-022.jpg"
 
