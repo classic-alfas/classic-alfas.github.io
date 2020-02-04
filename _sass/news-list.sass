@@ -41,6 +41,13 @@ $gray: #777
   .news-list-container
     padding-top: 50px
     padding-bottom: 50px
+  .news-list-item
+    @media (min-width: 768px)
+      min-height: 365px
+    @media (min-width: 992px)
+      min-height: 445px
+    @media (min-width: 1200px)
+      min-height: 370px
   .news-list-link
     color: $default-color-text
     transition: .2s color linear
