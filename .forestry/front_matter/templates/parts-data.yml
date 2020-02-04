@@ -36,3 +36,5 @@ fields:
     label: Sold
   hidden: false
   default: ''
+pages:
+- _data/parts.yml
