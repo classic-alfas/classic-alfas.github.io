@@ -113,9 +113,3 @@
   image: "/uploads/parts/late-105-1600-cylinder-head.jpg"
   price: "600"
   sold: false
-- name: '15X4.5 Original Giulia wheels - 5 available '
-  model: ''
-  filter-model: ''
-  image: "/uploads/15X4.5-Original-Giulia-wheels-5-avail.jpg"
-  price: 70 each
-  sold: true
