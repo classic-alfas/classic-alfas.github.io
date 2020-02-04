@@ -4,97 +4,115 @@
   filter-model: ''
   image: "/uploads/American Racing 14X6 refinished 4 for $600.jpg"
   price: "600"
+  sold: false
 - name: Rebuilt idler box
   model: ''
   filter-model: ''
   image: "/uploads/Rebuilt-idler-box-$150.jpg"
   price: "150"
+  sold: false
 - name: Lock assembly
   model: Giulietta
   filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: "275"
-  sold: false
+  sold: true
 - name: Speedometer
   model: 105 GT Series
   filter-model: 105-GT-Series
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431738/Parts/Speedometer_-_105_GT_Series_175._Includes_USA_postage.jpg
   price: "175"
+  sold: false
 - name: Wiper Arms 2
   model: Giulia Sedan
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431689/Parts/Wiper_Arms_2_-_Giulia_Sedan_90._3_photos_includes_USA_postage_.jpg.jpg
   price: "90"
+  sold: false
 - name: Side Marker
   model: Giulia Sedan
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: "65"
+  sold: false
 - name: Rocker Switch Acessembly
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431672/Parts/Rocker_Switch_Acessembly_photo_2_-_Giulia_TI_150._Includes_USA_postage.jpg
   price: "150"
+  sold: false
 - name: Mirrors 1 pair
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431670/Parts/Mirrors_1_pair_Vintage_Racing_65._Includes_USA_postage.jpg
   price: "65"
+  sold: false
 - name: License Frames 2
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431663/Parts/License_Frames_2_sturdy_construction_50._Includes_US_postage.jpg
   price: "50"
+  sold: false
 - name: Heater Blower Motor
   model: Giulietta
   filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: "125"
+  sold: false
 - name: Giulietta fans
   model: Giulietta
   filter-model: Giulietta
   image: "/uploads/parts/giulietta-fans.jpg"
   price: 125 each
+  sold: false
 - name: GT 1300 Junior Owners Manual
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/gt-1300-junior-owners-manual.jpg"
   price: "75"
+  sold: false
 - name: Original SZ framed artwork
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/original-SZ-framed-artwork.jpg"
   price: "75"
+  sold: false
 - name: 1966 Grand Prix of Italy-Monza Program
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg"
   price: "75"
+  sold: false
 - name: Sparco Revil Seat - NEW with tag
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/sparco-revil-seat-new-with-tag.jpg"
   price: "500"
+  sold: false
 - name: 56 Spider Block
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/56-spider-block.jpg"
   price: "1000"
+  sold: false
 - name: 105- 1600 Cylinder head
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/105-1600-cylinder-head.jpg"
   price: "800"
+  sold: false
 - name: 750 Veloce bell crank
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/750-veloce-bell-crank.jpg"
   price: "100"
+  sold: false
 - name: Late 105 - 1600 cylinder head
-  model: 
-  filter-model: 
+  model: ''
+  filter-model: ''
   image: "/uploads/parts/late-105-1600-cylinder-head.jpg"
   price: "600"
+  sold: false
 - name: '15X4.5 Original Giulia wheels - 5 available '
   model: ''
   filter-model: ''
