@@ -1,12 +1,10 @@
 ---
 layout: page-layout/gallery
 title: 1983 Alfa Romeo Spider Veloce
-date: 2019-04-27 10:35:00 +0000
+date: 2019-04-27T10:35:00.000+00:00
 categories: []
 image_large: "/uploads/2018-12-11_23-32-10_1[1].jpg"
 image_small: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
-# background_image: "/uploads/2018-12-11_23-32-10_1[1].jpg"
-# thumbnail: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
 items:
 - thumbnail: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
   large_image: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
@@ -57,6 +55,7 @@ items:
 - thumbnail: "/uploads/Photo Mar 14, 6 39 28 PM.jpg"
   large_image: "/uploads/Photo Mar 14, 6 39 28 PM.jpg"
 background_image: "/uploads/83 Alfa Romeo Spider Veloce-bg.jpg"
+
 ---
 ## 1983 Alfa Romeo Spider Veloce
 
