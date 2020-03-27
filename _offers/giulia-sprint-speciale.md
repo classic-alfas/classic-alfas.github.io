@@ -1,5 +1,5 @@
 ---
-title: Coming Soon - Giulia SPRINT SPECIALE
+title: Giulia SPRINT SPECIALE
 thumbnail: "/uploads/IMG_4726.jpg"
 items:
 - thumbnail: "/uploads/IMG_4726.jpg"
@@ -12,7 +12,7 @@ items:
   large_image: "/uploads/IMG_4731.jpg"
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
-order: "3"
+order: "1"
 status: For Sale
 
 ---
