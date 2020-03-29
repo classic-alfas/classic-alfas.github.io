@@ -10,4 +10,4 @@ background_image: "/uploads/01-giulia-sprint-speciale.jpg"
 ---
 ![]({{site.baseurl}}/uploads/01-giulia-sprint-speciale.jpg)
 
-[Check it out](/offers/giulia-sprint-speciale/) in the “Classics on Offer” section. 
+[See full listing details](/offers/giulia-sprint-speciale/) in the “Classics on Offer” section. 
