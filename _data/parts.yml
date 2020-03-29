@@ -35,12 +35,12 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: "65"
   sold: false
-- name: Rocker Switch Acessembly
+- name: Rocker Switch Assembly
   model: ''
   filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431672/Parts/Rocker_Switch_Acessembly_photo_2_-_Giulia_TI_150._Includes_USA_postage.jpg
   price: "100"
-  sold: false
+  sold: true
 - name: Mirrors 1 pair
   model: ''
   filter-model: ''
@@ -88,19 +88,19 @@
   filter-model: ''
   image: "/uploads/parts/sparco-revil-seat-new-with-tag.jpg"
   price: "500"
-  sold: false
+  sold: true
 - name: 56 Spider Block
   model: ''
   filter-model: ''
   image: "/uploads/parts/56-spider-block.jpg"
-  price: "1000"
+  price: "800"
   sold: false
 - name: 105- 1600 Cylinder head
   model: ''
   filter-model: ''
   image: "/uploads/parts/105-1600-cylinder-head.jpg"
   price: "800"
-  sold: false
+  sold: true
 - name: 750 Veloce bell crank
   model: ''
   filter-model: ''
@@ -112,4 +112,4 @@
   filter-model: ''
   image: "/uploads/parts/late-105-1600-cylinder-head.jpg"
   price: "600"
-  sold: false
+  sold: true
