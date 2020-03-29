@@ -10,4 +10,4 @@ background_image: "/uploads/01-giulia-sprint-speciale.jpg"
 ---
 ![]({{site.baseurl}}/uploads/01-giulia-sprint-speciale.jpg)
 
-Recently shown at the Concoso Italiano in Monterey with rave reviews. [Check it out](/offers/giulia-sprint-speciale/) in the “Classics on Offer” section. 
+[Check it out](/offers/giulia-sprint-speciale/) in the “Classics on Offer” section. 
