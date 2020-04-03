@@ -10,4 +10,4 @@ background_image: "/uploads/alfa-giulia-super.jpg"
 ---
 ![]({{site.baseurl}}/uploads/alfa-giulia-super.jpg)
 
-Another recently restored & delivered Alfa Giulia Super. 
+Another recently restored & delivered Alfa Giulia Super. Built to drive- we love it when customers use and enjoy their cars frequently. Just one of the many charms of the Giulia Super is the ability to take your friends along. Note the super rare and very lightweight genuine TZ wheels.
