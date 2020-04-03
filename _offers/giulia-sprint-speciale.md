@@ -77,11 +77,13 @@ ready for immediate enjoyment on the road!
 
 **_FEATURES:_**
 
-- Numbers matching original 1600cc Veloce engine with dual Webers and rare magnesium cold air box.
-- Close ratio 5 speed transmission.
-- Borrani 15” x 4.5” record bi-metallic wheel (forged steel centers with polished alloy rim.)
-- All original style interior & dash.
-- Wood rimmed Hellebore steering wheel.
+* Numbers matching original 1600cc Veloce engine with dual Webers and rare magnesium cold air box.
+* Close ratio 5 speed transmission.
+* Borrani 15” x 4.5” record bi-metallic wheel (forged steel centers with polished alloy rim.)
+* All original style interior & dash.
+* Wood rimmed Hellebore steering wheel.
+
+ASKING PRICE: $195,000
 
 **Contact Fred Schueddekopp with questions/additional information**  
 Call/Text : 360-770-2279 PST (USA)  
