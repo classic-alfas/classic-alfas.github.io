@@ -1,5 +1,5 @@
 ---
-title: NEW PRICE! Alfa Romeo Spider Veloce
+title: NEW PRICE! 1983 Spider Veloce
 thumbnail: "/uploads/83 Alfa Romeo Spider Veloce.jpg"
 sale_pending: true
 items:
