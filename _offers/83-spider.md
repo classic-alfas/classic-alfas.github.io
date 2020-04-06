@@ -77,6 +77,4 @@ status: For Sale
 
 _Ready to drive…just smile & steer :)_
 
-**_NEW PRICE!_**
-
 **$9,850**
