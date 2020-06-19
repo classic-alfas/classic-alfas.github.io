@@ -2,7 +2,7 @@
 status: For Sale
 title: 1958 Giulietta Spider Veloce
 thumbnail: "/uploads/58-spider-veloce-003.jpg"
-order: "3"
+order: "2"
 items:
 - thumbnail: "/uploads/58-spider-veloce-001.jpg"
   large_image: "/uploads/58-spider-veloce-001.jpg"
