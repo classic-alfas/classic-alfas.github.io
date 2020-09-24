@@ -1,5 +1,5 @@
 ---
-status: For Sale
+status: Sold
 title: 1958 Giulietta Spider Veloce
 thumbnail: "/uploads/58-spider-veloce-003.jpg"
 order: "2"
@@ -98,4 +98,4 @@ The engine was completely rebuilt with new pistons & liners, bearing, valves, ch
 
 In total, the restoration involved over the 700 hours plus the cost of paint & upholstery work. A great running & driving Alfa Romeo. Meticulously restored with show quality presentation!
 
-Please call for asking price.
+Please call for asking price. 
