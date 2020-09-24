@@ -83,7 +83,7 @@ ready for immediate enjoyment on the road!
 * All original style interior & dash.
 * Wood rimmed Hellebore steering wheel.
 
-ASKING PRICE: $195,000
+ASKING PRICE: **POR**
 
 **Contact Fred Schueddekopp with questions/additional information**  
 Call/Text : 360-770-2279 PST (USA)  
