@@ -2,8 +2,8 @@
 title: Giulia SPRINT SPECIALE
 thumbnail: "/uploads/IMG_4726.jpg"
 items:
-- thumbnail: "/uploads/./img_9041.jpeg"
-  large_image: "/uploads/./img_9041.jpeg"
+- thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_150/v1617688902/ClassicsOnOffer/IMG_9041.jpg"
+  large_image: "https://res.cloudinary.com/wesedholm/image/upload/v1617688902/ClassicsOnOffer/IMG_9041.jpg"
 - thumbnail: "/uploads/IMG_4726.jpg"
   large_image: "/uploads/IMG_4726.jpg"
 - thumbnail: "/uploads/IMG_4729.jpg"
