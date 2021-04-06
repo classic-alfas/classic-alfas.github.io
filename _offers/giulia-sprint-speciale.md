@@ -1,6 +1,6 @@
 ---
 title: Giulia SPRINT SPECIALE
-thumbnail: ''
+thumbnail: "/uploads/parts/sparco-revil-seat-new-with-tag.jpg"
 items:
 - thumbnail: https://res.cloudinary.com/wesedholm/image/upload/w_200,h_150/v1617688902/ClassicsOnOffer/IMG_9041.jpg
   large_image: https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg
@@ -32,7 +32,7 @@ items:
   large_image: "/uploads/09-giulia-sprint-speciale.jpg"
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
-order: "2"
+order: "1"
 status: For Sale
 
 ---
