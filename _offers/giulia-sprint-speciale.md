@@ -1,9 +1,9 @@
 ---
 title: Giulia SPRINT SPECIALE
-thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg"
+thumbnail: https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg
 items:
-- thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_200,h_150/v1617688902/ClassicsOnOffer/IMG_9041.jpg"
-  large_image: "https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg"
+- thumbnail: https://res.cloudinary.com/wesedholm/image/upload/w_200,h_150/v1617688902/ClassicsOnOffer/IMG_9041.jpg
+  large_image: https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg
 - thumbnail: "/uploads/IMG_4726.jpg"
   large_image: "/uploads/IMG_4726.jpg"
 - thumbnail: "/uploads/IMG_4729.jpg"
@@ -45,12 +45,9 @@ ODOMETER: 45,915
 
 **_HISTORY:_**
 
-The Sprint Speciale (SS) was introduced in mid-1963 and with a 1600cc
-engine & front disc brakes it was a dramatic improvement over its 1300cc
-predecessor. In fact at the time it was the fastest series produced road car
-Alfa had ever built!
+The Sprint Speciale (SS) was introduced in mid-1963 and with a 1600cc engine & front disc brakes it was a dramatic improvement over its 1300cc predecessor. In fact at the time it was the fastest series produced road car Alfa had ever built! 
 
-This car’s unique history begins with its purchase by Toly Arutunoff (private owner) in 1969 from a used car dealership in Nashville, Tennessee for the specific purpose of racing in the 1969 “24 HOURS of DAYTONA.” 
+This car’s unique history begins with its purchase by Toly Arutunoff (private owner) in 1969 from a used car dealership in Nashville, Tennessee for the specific purpose of racing in the 1969 “24 HOURS of DAYTONA.”
 
 With minimal prep. and co-driven by Joe Marina and Bill Pryor, the car
 completed the full distance with no major issues to finish 25th overall and
