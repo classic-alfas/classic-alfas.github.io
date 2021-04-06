@@ -1,6 +1,6 @@
 ---
 title: Giulia SPRINT SPECIALE
-thumbnail: ''
+thumbnail: "/uploads/img_9041.jpeg"
 items:
 - thumbnail: "/uploads/IMG_4729.jpg"
   large_image: "/uploads/IMG_4729.jpg"
