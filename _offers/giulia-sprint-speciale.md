@@ -32,7 +32,7 @@ items:
   large_image: "/uploads/09-giulia-sprint-speciale.jpg"
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
-order: "1"
+order: "2"
 status: For Sale
 
 ---
