@@ -58,7 +58,7 @@
   filter-model: Giulietta
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: "125"
-  sold: false
+  sold: true
 - name: Giulietta fans
   model: Giulietta
   filter-model: Giulietta
