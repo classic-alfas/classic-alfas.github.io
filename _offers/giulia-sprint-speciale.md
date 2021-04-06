@@ -1,6 +1,6 @@
 ---
 title: Giulia SPRINT SPECIALE
-thumbnail: "/uploads/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
+thumbnail: ''
 items:
 - thumbnail: https://res.cloudinary.com/wesedholm/image/upload/w_200,h_150/v1617688902/ClassicsOnOffer/IMG_9041.jpg
   large_image: https://res.cloudinary.com/wesedholm/image/upload/w_1044,h_783/v1617688902/ClassicsOnOffer/IMG_9041.jpg
@@ -36,7 +36,7 @@ order: "2"
 status: For Sale
 
 ---
-### 1965 ALFA ROMEO SPRINT SPECIALE test
+### 1965 ALFA ROMEO SPRINT SPECIALE
 
 CHASSIS #AR 381340  
 MOTOR #121-01352  
