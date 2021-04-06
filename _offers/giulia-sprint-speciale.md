@@ -50,9 +50,7 @@ engine & front disc brakes it was a dramatic improvement over its 1300cc
 predecessor. In fact at the time it was the fastest series produced road car
 Alfa had ever built!
 
-This car’s unique history begins with its purchase by Toly Arutunoff (private
-owner) in 1969 from a used car dealership in Nashville,Tennessee for the
-specific purpose of racing in the 1969 “24 HOURS of DAYTONA.”
+This car’s unique history begins with its purchase by Toly Arutunoff (private owner) in 1969 from a used car dealership in Nashville, Tennessee for the specific purpose of racing in the 1969 “24 HOURS of DAYTONA.”
 
 With minimal prep. and co-driven by Joe Marina and Bill Pryor, the car
 completed the full distance with no major issues to finish 25th overall and
@@ -85,7 +83,7 @@ ready for immediate enjoyment on the road!
 * All original style interior & dash.
 * Wood rimmed Hellebore steering wheel.
 
-ASKING PRICE: **POR**
+ASKING PRICE: **Contact us for new price.**
 
 **Contact Fred Schueddekopp with questions/additional information**  
 Call/Text : 360-770-2279 PST (USA)  
