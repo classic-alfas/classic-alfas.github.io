@@ -34,7 +34,7 @@
   filter-model: giulia-sedan
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: "65"
-  sold: false
+  sold: true
 - name: Rocker Switch Assembly
   model: ''
   filter-model: ''
@@ -46,7 +46,7 @@
   filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431670/Parts/Mirrors_1_pair_Vintage_Racing_65._Includes_USA_postage.jpg
   price: "65"
-  sold: false
+  sold: true
 - name: License Frames 2
   model: ''
   filter-model: ''
