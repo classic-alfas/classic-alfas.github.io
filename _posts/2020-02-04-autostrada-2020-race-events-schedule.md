@@ -7,4 +7,4 @@ image_small: "/uploads/checkeredflag[1].jpg"
 background_image: "/uploads/checkeredflag[1].jpg"
 
 ---
-![](https://stqsfya1eeoulo.dreamhosters.com/2021-04-05_22-53-38.jpg)
+![](https://res.cloudinary.com/wesedholm/image/upload/v1617688776/2021-04-05_22-53-38_1.jpg)
