@@ -1,6 +1,6 @@
 ---
 title: Giulia SPRINT SPECIALE
-thumbnail: "/uploads/img_9041.jpeg"
+thumbnail: "/uploads/uploads/thibaut-nagorny-655842-unsplash-optimized[1].jpg"
 items:
 - thumbnail: "/uploads/IMG_4729.jpg"
   large_image: "/uploads/IMG_4729.jpg"
