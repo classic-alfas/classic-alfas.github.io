@@ -64,7 +64,7 @@
   filter-model: Giulietta
   image: "/uploads/parts/giulietta-fans.jpg"
   price: 125 each
-  sold: false
+  sold: true
 - name: GT 1300 Junior Owners Manual
   model: ''
   filter-model: ''
