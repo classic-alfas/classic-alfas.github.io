@@ -19,9 +19,9 @@ Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & 
 
 #### ![Restored 1964 (1/2) Mustang convertible](https://res.cloudinary.com/wesedholm/image/upload/v1544346157/mustang-photo-stack-larger.jpg "Restored 1964 (1/2) Mustang convertible")
 
-#### Additional Rentals
+### Additional Rentals
 
-**1967 Alfa Romeo Duetto** a.k.a. “boat tail”. (Red convertible w/black interior). As seen in the movie **_“The Graduate”._** 
+**1967 Alfa Romeo Duetto** a.k.a. “boat tail”. (Red convertible w/black interior). As seen in the movie **_“The Graduate”._**  
 
 ![1967 Alfa Romeo Duetto a.k.a. “boat tail”](https://res.cloudinary.com/wesedholm/image/upload/w_800,q_90/v1544345602/CLASSIC-RENTAL-DUETTO-.jpg "1967 Alfa Romeo Duetto a.k.a. “boat tail”")
 
