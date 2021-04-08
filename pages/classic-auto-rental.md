@@ -23,6 +23,8 @@ Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & 
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/w_800,q_90/v1544345602/CLASSIC-RENTAL-DUETTO-.jpg)
 
+![](https://res.cloudinary.com/wesedholm/image/upload/f_auto,q_auto,w_1111/v1617876178/Rentals_On_Offer/IMG_Duetto-with-cat.jpg)
+
 **1959 Giuletta Spider** (Red convertible w/black & red interior). This is a beautiful iconic Italian car! “Giulietta” means **"little jewel"** in Italian.
 
 ![](https://res.cloudinary.com/wesedholm/image/upload/f_auto,q_auto,w_1111/v1617876178/Rentals_On_Offer/Giulietta_Front.jpg)
