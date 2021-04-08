@@ -12,7 +12,7 @@ meta_description: ''
 
 Delivered to your venue of choice: wedding reception, chapel, or other private location.
 
-$500. for 3 hours. $400. for two hours (staged at your venue). Delivery charges may apply for out-of-area locations. 
+**$500. for 3 hours. $400. for two hours (staged at your venue). Delivery charges may apply for out-of-area locations.** 
 
 Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & details.  
 **_For additional info. call/text: 360-317-6337._**
