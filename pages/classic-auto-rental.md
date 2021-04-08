@@ -17,7 +17,9 @@ Delivered to your venue of choice: wedding reception, chapel, or other private l
 Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & details.  
 **_For additional info. call/text: 360-317-6337._**
 
-![Restored 1964 (1/2) Mustang convertible](https://res.cloudinary.com/wesedholm/image/upload/v1544346157/mustang-photo-stack-larger.jpg "Restored 1964 (1/2) Mustang convertible")**Additional Rentals**
+#### ![Restored 1964 (1/2) Mustang convertible](https://res.cloudinary.com/wesedholm/image/upload/v1544346157/mustang-photo-stack-larger.jpg "Restored 1964 (1/2) Mustang convertible")
+
+**Additional Rentals**
 
 **1967 Alfa Romeo Duetto** a.k.a. “boat tail”. (Red convertible w/black interior). As seen in the movie **_“The Graduate”._**
 
