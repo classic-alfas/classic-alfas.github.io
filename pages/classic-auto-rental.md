@@ -19,7 +19,7 @@ Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & 
 
 #### ![Restored 1964 (1/2) Mustang convertible](https://res.cloudinary.com/wesedholm/image/upload/v1544346157/mustang-photo-stack-larger.jpg "Restored 1964 (1/2) Mustang convertible")
 
-**Additional Rentals**
+#### **Additional Rentals**
 
 **1967 Alfa Romeo Duetto** a.k.a. “boat tail”. (Red convertible w/black interior). As seen in the movie **_“The Graduate”._**
 
@@ -27,7 +27,7 @@ Cars are located in Washington & Big Island, Hawaii, USA.  Call for estimate, & 
 
 ![1967 Alfa Romeo Duetto a.k.a. “boat tail”](https://res.cloudinary.com/wesedholm/image/upload/f_auto,q_auto,w_1111,l_assets:brand-logo,w_0.8,g_south_east/v1617876178/Rentals_On_Offer/IMG_Duetto-with-cat.jpg "1967 Alfa Romeo Duetto a.k.a. “boat tail”")
 
-**1959 Giuletta Spider** (Red convertible w/black & red interior). This is a beautiful iconic Italian car! “Giulietta” means **"little jewel"** in Italian. 
+**1959 Giuletta Spider** (Red convertible w/black & red interior). This is a beautiful iconic Italian car! “Giulietta” means **"little jewel"** in Italian.
 
 ![1959 Giuleta Spider in Anacortes Washington](https://res.cloudinary.com/wesedholm/image/upload/f_auto,q_auto,w_1111,l_assets:brand-logo,w_0.14,g_south_east/v1617876178/Rentals_On_Offer/Giulietta_Front.jpg "1959 Giuleta Spider in Anacortes Washington")
 
